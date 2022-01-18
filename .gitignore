@@ -1,0 +1,58 @@
+*.py[cod]
+
+# C extensions
+*.so
+
+# Packages
+.cache
+*.egg
+*.pex
+*.egg-info
+dist
+build
+eggs
+parts
+bin
+var
+sdist
+develop-eggs
+.installed.cfg
+lib
+lib64
+
+# Installer logs
+pip-log.txt
+
+# Unit test / coverage reports
+.coverage
+.hypothesis
+.tox
+.mypy_cache
+nosetests.xml
+unittests.xml
+cover/
+htmlcov/
+junit.xml
+
+# Translations
+*.mo
+
+# Mr Developer
+.mr.developer.cfg
+.project
+.pydevproject
+
+# Jupyter
+.ipynb_checkpoints
+
+# Idea
+.idea
+.gradle
+
+# Sphinx docs
+docs/_build
+
+# Project specifics
+venv
+VERSION
+_SUCCESS

@@ -1,0 +1,2142 @@
+INPUT:diff1	INPUT:diff2	INPUT:query1	INPUT:query2	OUTPUT:result	OUTPUT:score
+ока	окна	ока	окна	no	0.5
+антена	антенну	антена куликова	антенну куликова	no	0.5
+campions	champion	campions	champion	no	0.5
+летная	летний	goodyear efficientgrip suv летная 215 60 r17	goodyear efficientgrip suv летний 215 60 r17	no	0.5
+клонки	колонка	блютуз клонки	блютуз колонка	no	0.5
+mersedes	mercedes	mersedes gl 164	mercedes gl 164	no	0.5
+фильт	фильтр	фильт масляный лансер 10	фильтр масляный лансер 10	yes	0.5
+sex	dex	club sex	club dex	no	0.5
+матиз	машин	бензобак део матиз б у	бензобак део машин б у	no	0.5
+voyage	voyager	guerlain meteorites voyage	guerlain meteorites voyager	no	0.5
+аккумуляторный	аккумуляторы	аккумуляторный dc44	аккумуляторы dc44	no	0.5
+ada	lada	бензобур ada ground drill-8	бензобур lada ground drill-8	yes	0.5
+lexis	lexus	lexis is250	lexus is250	yes	0.5
+lsd	led	lsd редуктор	led редуктор	yes	0.5
+аутлендор	аутлендер	бампер передний аутлендор хл	бампер передний аутлендер хл	no	0.5
+ass	asus	ass	asus	no	0.5
+sister	duster	five nights sister location	five nights duster location	no	0.5
+loong	long	loong board	long board	yes	0.5
+rolf	golf	rolf benz	golf benz	yes	0.5
+ringer	range	ralf ringer обувь 40 р	ralf range обувь 40 р	no	0.5
+scoda	skoda	scoda octavia a7	skoda octavia a7	no	0.5
+apll	apple	apll ноут	apple ноут	yes	0.5
+squier	super	squier stratocaster standart	super stratocaster standart	no	0.5
+mims	moms	mims	moms	no	0.5
+slr	xlr	mercedes-benz slr mclaren	mercedes-benz xlr mclaren	no	0.5
+барс	бара	ак барс одежда	ак бара одежда	yes	0.5
+boy	baby	game boy e reader	game baby e reader	no	0.5
+тракер	трактор	бампер шевроле тракер	бампер шевроле трактор	no	0.5
+hts	htc	hts-350-36	htc-350-36	yes	0.5
+akai	kia	akai 61 advance	kia 61 advance	yes	0.5
+батарейная	батарейках	батарейная ручка canon	батарейках ручка canon	yes	0.5
+originals	original	adidas originals x opening ceremon	adidas original x opening ceremon	yes	0.5
+фарсунка	форсунка	бампер фарсунка	бампер форсунка	yes	0.5
+док	дом	sata док станция hdd	sata дом станция hdd	no	0.5
+elie	elite	l eau couture elie saab	l eau couture elite saab	yes	0.5
+батскетбольный	баскетбольный	батскетбольный мяч	баскетбольный мяч	yes	0.5
+кампьютер	компьютеры	бортовой кампьютер приора	бортовой компьютеры приора	yes	0.5
+akzent	accent	борона akzent	борона accent	yes	0.5
+александрова	александров	александрова 21	александров 21	yes	0.5
+ваты	воды	аппарат для сахарной ваты аренда	аппарат для сахарной воды аренда	no	0.5
+кремень	времен	2 кремень	2 времен	yes	0.5
+nex	nexia	metabones canon ef to e-mount nex iii smart adapter	metabones canon ef to e-mount nexia iii smart adapter	yes	0.5
+msmg	msgm	msmg	msgm	no	0.5
+тестер	мастер	tom ford тестер	tom ford мастер	no	0.5
+ebs	abs	блок управления ebs	блок управления abs	no	0.5
+балетные	бальные	балетные туфли	бальные туфли	no	0.5
+nivo	niva	nikon nivo	nikon niva	no	0.5
+недвижемости	недвижимости	аренда недвижемости	аренда недвижимости	yes	0.5
+les	led	gibson les paul burst	gibson led paul burst	yes	0.5
+делл	дело	батарея для ноутбука делл	батарея для ноутбука дело	no	0.5
+некси	нексия	бампер на некси	бампер на нексия	yes	0.5
+rsn	rsd	rsn	rsd	no	0.5
+texier	texet	texier сумка	texet сумка	yes	0.5
+ted	red	ted baker оригинал	red baker оригинал	yes	0.5
+аудия	ауди	аудия а4	ауди а4	no	0.5
+вакумные	вакуумные	банки вакумные	банки вакуумные	no	0.5
+водител	водителя	аренда машина без водител	аренда машина без водителя	no	0.5
+ears	ear	ultimate ears boom 2	ultimate ear boom 2	yes	0.5
+аккомулятор	аккумуляторы	аккомулятор для zte	аккумуляторы для zte	no	0.5
+салярис	солярис	акпп салярис	акпп солярис	yes	0.5
+ymaxa	ymaha	ymaxa jog	ymaha jog	no	0.5
+баннер	бампер	баннер фото зона	бампер фото зона	yes	0.5
+forza	corsa	forza farint	corsa farint	no	0.5
+jtc	htc	jtc 1184	htc 1184	yes	0.5
+hair	air	hair журнал	air журнал	yes	0.5
+плата	платья	iphone 7 сгоревшая плата	iphone 7 сгоревшая платья	yes	0.5
+аккомулятор	аккумуляторы	аккомулятор на самсунг с 5 мини	аккумуляторы на самсунг с 5 мини	no	0.5
+sbr	cbr	sbr 600rr	cbr 600rr	yes	0.5
+магнитолла	магнитол	freelander 2 магнитолла	freelander 2 магнитол	no	0.5
+irbid	irbis	irbid gs200	irbis gs200	no	0.5
+samsug	samsung	samsug galaxy s9	samsung galaxy s9	no	0.5
+аксесуары	аксессуара	аксесуары dolce gabbana оригинал	аксессуара dolce gabbana оригинал	no	0.5
+bricks	tracks	lego bricks	lego tracks	yes	0.5
+аллюминиевый	алюминиевый	аллюминиевый диск 22 5	алюминиевый диск 22 5	no	0.5
+басаножки	босоножки	басаножки детские 23 размер	босоножки детские 23 размер	yes	0.5
+тени	одни	yves saint laurent тени	yves saint laurent одни	yes	0.5
+vls	cls	vls 300	cls 300	yes	0.5
+барс	бара	барс костюм	бара костюм	no	0.5
+srt	art	sony srt-dg820	sony art-dg820	yes	0.5
+понель	опель	bmw 3 f понель передняя	bmw 3 f опель передняя	no	0.5
+шипы	шины	65 15 шипы	65 15 шины	yes	0.5
+apv	apc	chevrolet lumina apv	chevrolet lumina apc	no	0.5
+iphene	iphone	iphene	iphone	yes	0.5
+haggies	huggies	haggies	huggies	yes	0.5
+ymaha	yamaha	ymaha yz85	yamaha yz85	yes	0.5
+стеклоподьемников	стеклоподъемников	mitsubishi carisma блок кнопок стеклоподьемников	mitsubishi carisma блок кнопок стеклоподъемников	no	0.5
+вагон	район	brio вагон	brio район	yes	0.5
+leeco	lego	leeco le pro3	lego le pro3	no	0.5
+бра	пара	бра nike	пара nike	yes	0.5
+ранец	баней	erich krause ранец	erich krause баней	yes	0.5
+xpro	pro	godox xpro	godox pro	no	0.5
+-комнатные	комнатные	1-комнатные по ул почтовая	1 комнатные по ул почтовая	no	0.5
+citizen	citroen	citizen skyhawk	citroen skyhawk	yes	0.5
+слюдянка	славянка	3 комнатная квартира слюдянка	3 комнатная квартира славянка	no	0.5
+usm	usb	canon 70-200 2 8 l is usm	canon 70-200 2 8 l is usb	yes	0.5
+cover	rover	samsung clear view standing cover для galaxy s8	samsung clear view standing rover для galaxy s8	yes	0.5
+omni	one	zyxel omni 56k usb plus ee	zyxel one 56k usb plus ee	no	0.5
+обьмен	обмен	iphone 6 обьмен	iphone 6 обмен	yes	0.5
+bike	nike	tramp bike 2 alu	tramp nike 2 alu	yes	0.5
+рейсталинг	рестайлинг	opel astra g рейсталинг	opel astra g рестайлинг	yes	0.5
+корова	коробка	большая мягкая игрушка корова	большая мягкая игрушка коробка	yes	0.5
+rsim	sim	iphone rsim	iphone sim	yes	0.5
+базы	без	аренда базы отдыха на парном	аренда без отдыха на парном	no	0.5
+akai	kia	akai dt	kia dt	no	0.5
+gauss	guess	gauss светодиодные лампочки	guess светодиодные лампочки	yes	0.5
+расрочка	рассрочку	авто расрочка по чиченской республике	авто рассрочку по чиченской республике	no	0.5
+центов	центр	50 центов	50 центр	yes	0.5
+аифон	айфон	аифон 5s не рабочий	айфон 5s не рабочий	yes	0.5
+guliver	gulliver	guliver 122 комплект	gulliver 122 комплект	yes	0.5
+ufp	газ	ufp 21	газ 21	no	0.5
+аире	мире	аире 71 с 2 в 2	мире 71 с 2 в 2	yes	0.5
+prolodgy	prology	prolodgy imap	prology imap	yes	0.5
+bens	benz	mercedes-bens ml 350	mercedes-benz ml 350	no	0.5
+через	берег	samsonite через плечо	samsonite берег плечо	yes	0.5
+michlen	michelin	205 60 15 michlen	205 60 15 michelin	no	0.5
+cedtybhs	сувениры	cedtybhs	сувениры	no	0.5
+челси	чулки	ботинки челси мужские	ботинки чулки мужские	no	0.5
+басейны	бассейна	басейны детский	бассейна детский	no	0.5
+rasing	racing	bs rasing	bs racing	yes	0.5
+ema	ems	blaupunkt ema 255	blaupunkt ems 255	no	0.5
+nar	bar	nar пленка	bar пленка	yes	0.5
+антон	айфон	антон шоп	айфон шоп	yes	0.5
+nbcrb	тиски	nbcrb	тиски	yes	0.5
+cic	ice	cic e71	ice e71	yes	0.5
+jole	joie	jole коляска	joie коляска	yes	0.5
+forza	corsa	forza 5 xbox one	corsa 5 xbox one	no	0.5
+домик	домом	бетонный домик	бетонный домом	no	0.5
+sub	usb	genelec sub	genelec usb	yes	0.5
+solo	polo	microlab solo 4c	microlab polo 4c	yes	0.5
+уазик	уаза	уазик 69 двигатель	уаза 69 двигатель	no	0.5
+арнда	аренду	арнда помещения для свадьбы	аренду помещения для свадьбы	no	0.5
+акумулятор	аккумулятор	акумулятор бу шевроле кобольт	аккумулятор бу шевроле кобольт	no	0.5
+гжель	опель	блинница гжель	блинница опель	no	0.5
+стелла	стеллажи	адидас стелла	адидас стеллажи	no	0.5
+аккамулятор	аккумулятора	аккамулятор 18 вольт	аккумулятора 18 вольт	yes	0.5
+loves	love	grace loves	grace love	no	0.5
+барни	барный	барни стинсон	барный стинсон	yes	0.5
+nex	max	nex боди	max боди	no	0.5
+виско	виска	mercedes w124 виско муфта	mercedes w124 виска муфта	no	0.5
+emc	ems	emc пивторак	ems пивторак	yes	0.5
+cthnbabrfn	сертификат	cthnbabrfn	сертификат	no	0.5
+akai	kia	akai s6000	kia s6000	yes	0.5
+soni	sony	soni ericsson t650i	sony ericsson t650i	no	0.5
+ciaomi	xiaomi	ciaomi	xiaomi	no	0.5
+bayer	bauer	bayer x90	bauer x90	no	0.5
+gsx	gtx	suzuki gsx r поворотники	suzuki gtx r поворотники	yes	0.5
+wolf	golf	r wolf	r golf	no	0.5
+axon	canon	баллы axon	баллы canon	no	0.5
+pel	opel	bosh pst 800 pel	bosh pst 800 opel	yes	0.5
+мерсидес	мерседес	автомабиль мерсидес	автомабиль мерседес	yes	0.5
+viktorias	victorias	viktorias secret	victorias secret	yes	0.5
+щаток	щиток	щаток для приоры	щиток для приоры	no	0.5
+бензанасос	бензонасос	бензанасос krauf	бензонасос krauf	no	0.5
+merseders	mercedes	merseders w 221	mercedes w 221	no	0.5
+fitch	watch	fitch	watch	yes	0.5
+ecx	kicx	hertz ecx 130	hertz kicx 130	no	0.5
+guliver	gulliver	guliver 116	gulliver 116	yes	0.5
+volswagen	volkswagen	volswagen golf 5 супорт передний	volkswagen golf 5 супорт передний	yes	0.5
+арома	аромат	арома лампы	аромат лампы	yes	0.5
+брендированые	брендированные	брендированые пакеты	брендированные пакеты	yes	0.5
+приус	приму	бампер тойота приус 30	бампер тойота приму 30	yes	0.5
+vjht	море	vjht	море	yes	0.5
+тди	ауди	ауди 2 5 тди 180 л с	ауди 2 5 ауди 180 л с	yes	0.5
+yamaxa	yamaha	yamaxa rx1	yamaha rx1	no	0.5
+опел	опель	бампер передний опел зафира	бампер передний опель зафира	yes	0.5
+bay	baby	emerald bay	emerald baby	yes	0.5
+сервес	сервис	авто сервес	авто сервис	no	0.5
+кулиса	колеса	nissan primera p12 кулиса переключения передач	nissan primera p12 колеса переключения передач	yes	0.5
+амартизатор	амортизатора	амартизатор на нексиа	амортизатора на нексиа	no	0.5
+кардан	карта	audi а4 б6 кардан	audi а4 б6 карта	no	0.5
+uns	unc	5 рублей 1998 года спмд uns	5 рублей 1998 года спмд unc	no	0.5
+gxt	gtx	gxt 1060 6g	gtx 1060 6g	no	0.5
+engel	angel	автохолодильник engel	автохолодильник angel	no	0.5
+нисан	диван	амортизаторы задние нисан максима	амортизаторы задние диван максима	yes	0.5
+monde	mondeo	monde	mondeo	no	0.5
+vest	vesta	tasmanian tiger ammunition vest	tasmanian tiger ammunition vesta	yes	0.5
+hdr	hdd	lexand d6 hdr	lexand d6 hdd	no	0.5
+focal	focus	165 focal	165 focus	yes	0.5
+после	шоссе	автовышка после дтп	автовышка шоссе дтп	yes	0.5
+cnfyjr	станок	njxbkmysq cnfyjr	njxbkmysq станок	no	0.5
+tevtonia	teutonia	tevtonia	teutonia	no	0.5
+сузуки	сумки	бензобак сузуки	бензобак сумки	no	0.5
+бабка	маска	бабка для забивания	маска для забивания	yes	0.5
+футов	кузов	бильярд 10 футов	бильярд 10 кузов	yes	0.5
+huyndai	hyundai	huyndai hd120 редуктор	hyundai hd120 редуктор	no	0.5
+bmx	bmw	fatboy mini bmx	fatboy mini bmw	yes	0.5
+стеклоподъёмника	стеклоподъемники	блок кнопок стеклоподъёмника мерседес 203	блок кнопок стеклоподъемники мерседес 203	no	0.5
+агента	аренда	аренда комната без агента	аренда комната без аренда	yes	0.5
+ssb	ssd	ssb приемник	ssd приемник	yes	0.5
+плата	платья	samsung материнская плата с процессором	samsung материнская платья с процессором	yes	0.5
+амартизаторы	амортизаторы	амартизаторы ниссан	амортизаторы ниссан	yes	0.5
+кусок	кузов	кожа кусок	кожа кузов	yes	0.5
+honey	honor	honey bronze	honor bronze	yes	0.5
+суточно	срочно	1 комнатная квартира по суточно в орле	1 комнатная квартира по срочно в орле	no	0.5
+салярис	солярис	бампер в цвет на салярис	бампер в цвет на солярис	yes	0.5
+альфард	альфа	альфард alphard	альфа alphard	no	0.5
+xari	zara	mima xari махачкала	mima zara махачкала	yes	0.5
+crysler	chrysler	crysler 300	chrysler 300	no	0.5
+greco	graco	greco jazz bass	graco jazz bass	no	0.5
+audio	audi	crest audio vs 900	crest audi vs 900	yes	0.5
+cry	core	far cry 3 на ps4	far core 3 на ps4	yes	0.5
+ahb	фри	ahb	фри	yes	0.5
+shark	smart	xiaomi black shark	xiaomi black smart	yes	0.5
+avd	amd	avd models	amd models	no	0.5
+open	opel	push to open	push to opel	no	0.5
+городок	город	32 военный городок	32 военный город	yes	0.5
+битовой	бытовой	битовой техника	бытовой техника	yes	0.5
+крокид	сроки	80-86 крокид	80-86 сроки	no	0.5
+rub	run	gosha rub	gosha run	no	0.5
+борка	уборка	борка	уборка	no	0.5
+aqua	asus	lego aqua	lego asus	no	0.5
+метан	металл	баллон метан 100	баллон металл 100	no	0.5
+aqua	asus	aqua lung legend acd	asus lung legend acd	no	0.5
+focal	focus	jm lab focal	jm lab focus	no	0.5
+ibanes	ibanez	ibanes	ibanez	yes	0.5
+kit	kia	canon 70d kit	canon 70d kia	no	0.5
+аллюминий	алюминий	бидон аллюминий	бидон алюминий	yes	0.5
+russo	rosso	anna dello russo	anna dello rosso	no	0.5
+краги	книги	true краги	true книги	yes	0.5
+подьемники	подъемник	автомобильные ножничные подьемники	автомобильные ножничные подъемник	yes	0.5
+yota	toyota	yota номер	toyota номер	no	0.5
+bmx	bmw	bmx freedom	bmw freedom	no	0.5
+gti	gtx	бампер gti vw golf 7	бампер gtx vw golf 7	yes	0.5
+yo-yo	yoyo	yo-yo коляска	yoyo коляска	no	0.5
+hynday	hyndai	hynday	hyndai	no	0.5
+ресталинг	рестайлинга	блок климата ford фокус 2 ресталинг	блок климата ford фокус 2 рестайлинга	yes	0.5
+bust	boost	bust	boost	no	0.5
+wee	eee	wee trike 360	eee trike 360	no	0.5
+алаптер	адаптер	алаптер	адаптер	yes	0.5
+маслянный	масляный	маслянный насос кио соренто	масляный насос кио соренто	no	0.5
+utnw	гетц	eylfq utnw	eylfq гетц	no	0.5
+аварийка	аварийная	focus аварийка	focus аварийная	yes	0.5
+zdac	dac	parasound zdac	parasound dac	no	0.5
+cумка	сумки	cумка chanel оригинал	сумки chanel оригинал	no	0.5
+macbooc	macbook	macbooc air	macbook air	no	0.5
+gti	gtx	golf gti колеса	golf gtx колеса	yes	0.5
+gll	glk	gll	glk	no	0.5
+база	без	автокресло maxi-cosi pearl база	автокресло maxi-cosi pearl без	no	0.5
+апликатор	аппликатор	апликатор	аппликатор	yes	0.5
+rocker	rover	lol rocker	lol rover	yes	0.5
+fist	fiat	fist 500	fiat 500	yes	0.5
+carat	carlo	carat	carlo	no	0.5
+elise	elite	rance elise	rance elite	yes	0.5
+слон	салон	hasbro слон	hasbro салон	no	0.5
+абисинская	абиссинская	абисинская	абиссинская	yes	0.5
+адель	газель	3-к квартира адель кутуя	3-к квартира газель кутуя	no	0.5
+бобер	ковер	бобер 31	ковер 31	no	0.5
+ьштш	mini	mac ьштш	mac mini	yes	0.5
+bmv	bmw	автомобиль без пробега bmv	автомобиль без пробега bmw	yes	0.5
+решотка	решетки	решотка м f15	решетки м f15	yes	0.5
+pkfnjecn	златоуст	pkfnjecn 2107 2005	златоуст 2107 2005	yes	0.5
+reyu	кунг	reyu	кунг	yes	0.5
+tough	touch	olympus tough tg-860	olympus touch tg-860	yes	0.5
+artik	arctic	artik	arctic	yes	0.5
+brtf	икеа	cntkkf brtf	cntkkf икеа	yes	0.5
+березовка	березовая	богородский район д березовка	богородский район д березовая	yes	0.5
+арболет	арбалета	арболет	арбалета	no	0.5
+стеклоподемников	стеклоподъемников	блок стеклоподемников форд фокус 2	блок стеклоподъемников форд фокус 2	yes	0.5
+капо	капа	3 капо им горбунова	3 капа им горбунова	yes	0.5
+usn	usm	usn	usm	no	0.5
+хутор	мотор	адлер хутор россия	адлер мотор россия	no	0.5
+амарок	марок	амарок молдинг	марок молдинг	yes	0.5
+sex	dex	sex игрушка	dex игрушка	yes	0.5
+cover	rover	samsung note 8 cover	samsung note 8 rover	yes	0.5
+каленвала	коленвала	focus 1 датчик каленвала	focus 1 датчик коленвала	no	0.5
+банер	бампер	банер рекламный	бампер рекламный	no	0.5
+gxt	gtx	бесперебойник gxt 2u	бесперебойник gtx 2u	no	0.5
+focuc	focus	ford focuc 2 фара	ford focus 2 фара	yes	0.5
+leeco	lego	leeco cool1 4 32gb	lego cool1 4 32gb	no	0.5
+iroar	inoar	iroar creative labs	inoar creative labs	no	0.5
+jps	gps	jps трекер	gps трекер	yes	0.5
+перед	передня	бампер перед теана	бампер передня теана	no	0.5
+беж	без	42 балетки беж	42 балетки без	yes	0.5
+roger	rover	roger dubuis knights	rover dubuis knights	no	0.5
+glm	glc	glm 100	glc 100	no	0.5
+бомбер	бампер	бомбер женский бренд	бампер женский бренд	yes	0.5
+nex	nexia	sony nex vg 10	sony nexia vg 10	no	0.5
+автомагнитолла	автомагнитола	jvc автомагнитолла	jvc автомагнитола	yes	0.5
+тестер	мастер	dior fahrenheit тестер	dior fahrenheit мастер	no	0.5
+взломанная	сломанная	playstation 4 взломанная	playstation 4 сломанная	yes	0.5
+scoda	skoda	scoda octavia а5 дверь	skoda octavia а5 дверь	no	0.5
+gds	gtc	hyundai kia gds vci	hyundai kia gtc vci	no	0.5
+kixc	kicx	kixc qs1 600	kicx qs1 600	yes	0.5
+isalnd	island	stone isalnd	stone island	yes	0.5
+соул	стул	дверь киа соул	дверь киа стул	no	0.5
+melisa	melissa	melisa	melissa	yes	0.5
+банная	баня	банная печь бу	баня печь бу	yes	0.5
+кандиционер	кондиционеры	астрахань кандиционер	астрахань кондиционеры	yes	0.5
+белова	беговая	белова 17а	беговая 17а	no	0.5
+плата	платье	macbook 12 плата	macbook 12 платье	no	0.5
+viana	viano	viana мерседес бенс 7 местный 2010 года цена	viano мерседес бенс 7 местный 2010 года цена	no	0.5
+eci	eco	eci	eco	no	0.5
+бартер	бампер	бартер на шивролет ланос	бампер на шивролет ланос	yes	0.5
+ампер	бампер	аккумулятор 140 ампер	аккумулятор 140 бампер	yes	0.5
+спарк	сварка	chevrolet спарк	chevrolet сварка	no	0.5
+cумка	сумки	cумка zara новая	сумки zara новая	yes	0.5
+богажники	багажники	богажники мицубиси	багажники мицубиси	yes	0.5
+dax	dac	samsung dax	samsung dac	yes	0.5
+антена	антенна	антена lte	антенна lte	no	0.5
+xonor	honor	xonor 9lite	honor 9lite	yes	0.5
+колпаки	коляски	solaris колпаки	solaris коляски	no	0.5
+mishel	michael	mishel	michael	yes	0.5
+obermayer	obermeyer	obermayer	obermeyer	no	0.5
+yfcnbk	настил	yfcnbk	настил	no	0.5
+kit	kia	quick-step repair kit	quick-step repair kia	no	0.5
+mersedes	mercedes	mersedes cls amg	mercedes cls amg	yes	0.5
+teak	team	teak house	team house	yes	0.5
+phablet	tablet	phablet	tablet	yes	0.5
+marsedes	mersedes	marsedes	mersedes	no	0.5
+англиский	английский	англиский бульдог купить	английский бульдог купить	no	0.5
+мобил	мобиль	бесплатно мобил	бесплатно мобиль	no	0.5
+cty	cry	cty 1035	cry 1035	no	0.5
+рефрежиратор	рефрижератор	авто рефрежиратор	авто рефрижератор	no	0.5
+авс	абс	блок авс фьюжен	блок абс фьюжен	yes	0.5
+glj	glk	glj	glk	yes	0.5
+nes	new	nes картриджи	new картриджи	no	0.5
+squier	super	squier standart stratocaster	super standart stratocaster	no	0.5
+ваты	воды	аппарат для сахарной ваты	аппарат для сахарной воды	yes	0.5
+fabian	fabiani	fabian	fabiani	no	0.5
+port	ford	mini display port dvi	mini display ford dvi	no	0.5
+акумулятор	аккумуляторы	акумулятор r520 m	аккумуляторы r520 m	yes	0.5
+купэ	кпп	ford fiesta mk6 дверь купэ	ford fiesta mk6 дверь кпп	no	0.5
+platronics	plantronics	platronics voyager	plantronics voyager	no	0.5
+blanc	black	бокс на крышу mont blanc	бокс на крышу mont black	yes	0.5
+lend	led	акомулятор lend rover	акомулятор led rover	no	0.5
+ван	ванну	мебель ван гог	мебель ванну гог	yes	0.5
+ранец	баней	gulliver ранец	gulliver баней	yes	0.5
+tuareg	touareg	volkswagen tuareg 2009 крышка	volkswagen touareg 2009 крышка	yes	0.5
+photon	foton	burton photon	burton foton	no	0.5
+рей	рио	r16 х рей	r16 х рио	yes	0.5
+olimpus	olympus	olimpus диктофон	olympus диктофон	no	0.5
+taco	tako	taco	tako	yes	0.5
+компьютор	компьютер	бортовой компьютор ваз	бортовой компьютер ваз	yes	0.5
+ame	amg	ame-сигнализация	amg-сигнализация	yes	0.5
+катридж	картриджи	canon катридж	canon картриджи	yes	0.5
+тверь	дверь	айфон 8 тверь	айфон 8 дверь	yes	0.5
+база	без	база рыбалка	без рыбалка	yes	0.5
+ака	око	ака сигнум	око сигнум	no	0.5
+samsug	samsung	samsug tab 2	samsung tab 2	no	0.5
+bwm	bmw	bwm x3	bmw x3	yes	0.5
+stilet	stiletto	patron stilet	patron stiletto	yes	0.5
+антена	антенны	антена на даче	антенны на даче	yes	0.5
+akai	kia	akai 325	kia 325	no	0.5
+бмх	бмв	бмх haro	бмв haro	yes	0.5
+xtr	чек	shimano xtr m9020	shimano чек m9020	no	0.5
+termaltake	thermaltake	termaltake versa u 21	thermaltake versa u 21	no	0.5
+bls	plus	fl 42 bls	fl 42 plus	no	0.5
+pazollini	pazolini	pazollini новые 36	pazolini новые 36	no	0.5
+купер	купе	акпп купер	акпп купе	no	0.5
+гдн	гдр	100 гдн-3	100 гдр-3	yes	0.5
+планет	планшет	r14 амтел планет	r14 амтел планшет	no	0.5
+аурус	таурус	авто таета аурус купить б у	авто таета таурус купить б у	no	0.5
+заводска	заводская	бмв х3 f25 заводска тонировкп	бмв х3 f25 заводская тонировкп	yes	0.5
+садовод	садовый	алтайский садовод	алтайский садовый	yes	0.5
+cohen	john	jacob cohen размер 35	jacob john размер 35	yes	0.5
+бив	бмв	бив 5	бмв 5	no	0.5
+crs	cts	crs 1 d	cts 1 d	no	0.5
+стеклоподемников	стеклоподъемников	блок кнопок стеклоподемников	блок кнопок стеклоподъемников	yes	0.5
+корбка	коробка	passat b7 корбка	passat b7 коробка	yes	0.5
+нисан	диван	спиральный провод нисан кашкай	спиральный провод диван кашкай	no	0.5
+автомойчик	автомойщик	автомойчик	автомойщик	no	0.5
+акира	акура	акира жк	акура жк	yes	0.5
+port	ford	ford 2 0 л split port	ford 2 0 л split ford	yes	0.5
+kruz	cruz	santa kruz	santa cruz	yes	0.5
+мотоцил	мотоцикл	амортизатор на мотоцил	амортизатор на мотоцикл	no	0.5
+gjl	под	gjlcnfdrf gjl rhjccjdsq	gjlcnfdrf под rhjccjdsq	yes	0.5
+ладо	лада	автомобиль ладо гранта	автомобиль лада гранта	yes	0.5
+балет	браслет	classic балет бумага	classic браслет бумага	yes	0.5
+mitsubihi	mitsubishi	recaro mitsubihi	recaro mitsubishi	yes	0.5
+hearty	hearts	hearty rise halcyon	hearts rise halcyon	no	0.5
+pioner	pioneer	pioner 4 3	pioneer 4 3	yes	0.5
+yota	toyota	yota swift	toyota swift	yes	0.5
+aser	acer	aser intel core i7	acer intel core i7	yes	0.5
+amt	amg	amt e2	amg e2	no	0.5
+bmv	bmw	bmv 630	bmw 630	no	0.5
+harmon	kardon	harmon	kardon	yes	0.5
+molo	polo	molo свитшот	polo свитшот	yes	0.5
+isb	usb	isb брюки	usb брюки	no	0.5
+eve	evo	eve roche	evo roche	no	0.5
+шуроповерт	шуруповерты	milwaukee шуроповерт 12	milwaukee шуруповерты 12	yes	0.5
+део	дэу	блок двигателя део нексия	блок двигателя дэу нексия	no	0.5
+бартер	бампер	бартер на пассат	бампер на пассат	yes	0.5
+кренометр	хронометр	mitsubishi кренометр	mitsubishi хронометр	yes	0.5
+свечи	двери	honda civic свечи	honda civic двери	yes	0.5
+ghjabkmyfz	профильная	nhe f ghjabkmyfz	nhe f профильная	yes	0.5
+vish	wish	vish	wish	no	0.5
+cub	cube	cub cadet 524 swe	cube cadet 524 swe	no	0.5
+dey	day	dey matiz	day matiz	no	0.5
+апарат	аппарат	апарат игрушек	аппарат игрушек	yes	0.5
+atb	atv	stels atb 500 h	stels atv 500 h	yes	0.5
+амартизаторы	амортизатора	амартизаторы mazda 3 ford	амортизатора mazda 3 ford	yes	0.5
+volp	voip	volp	voip	yes	0.5
+cherri	chery	cherri tiggo	chery tiggo	yes	0.5
+ассенизаторная	ассенизатора	ассенизаторная машина	ассенизатора машина	no	0.5
+брем	боем	а брем жизнь животных 4 и 5 том	а боем жизнь животных 4 и 5 том	no	0.5
+squier	super	squier jazz bass vintage modified 70 s	super jazz bass vintage modified 70 s	yes	0.5
+аненки	пленки	аненки	пленки	yes	0.5
+domo	demo	domo	demo	no	0.5
+бартавой	бортовой	бартавой компьютер	бортовой компьютер	no	0.5
+yamaran	yamaha	yamaran s350	yamaha s350	yes	0.5
+решотка	решётки	решотка на w205	решётки на w205	yes	0.5
+алюминивый	алюминиевый	багажник алюминивый	багажник алюминиевый	no	0.5
+aim	sim	farpoint aim controller	farpoint sim controller	no	0.5
+mca	mac	mca 52-64-148-kt 14	mac 52-64-148-kt 14	no	0.5
+мираж	мира	авантис мираж 7	авантис мира 7	no	0.5
+artego	atego	artego	atego	yes	0.5
+ark	mark	ark benefit m 4	mark benefit m 4	yes	0.5
+cuboid	cubot	cuboid	cubot	yes	0.5
+cute	cut	yamaha cute	yamaha cut	yes	0.5
+сaddy	caddy	volkswagen сaddy	volkswagen caddy	no	0.5
+nfxrf	тачка	nfxrf	тачка	no	0.5
+miratti	meratti	miratti	meratti	yes	0.5
+war	air	call of duty world at war 2	call of duty world at air 2	yes	0.5
+акомулятор	аккумулятор	акомулятор 12v	аккумулятор 12v	no	0.5
+платина	плата	tiffany кольцо платина	tiffany кольцо плата	no	0.5
+некся	нексию	авто разбор некся матор 16	авто разбор нексию матор 16	yes	0.5
+cтол	стол	cтол офисный	стол офисный	no	0.5
+volksvagen	volkswagen	volksvagen transporter	volkswagen transporter	no	0.5
+будка	сумка	daf lf будка	daf lf сумка	no	0.5
+абхазкие	абхазские	абхазкие	абхазские	no	0.5
+merlen	merlin	merlen	merlin	yes	0.5
+гос	час	555 гос номера	555 час номера	no	0.5
+матиз	машин	аренда дэу матиз	аренда дэу машин	yes	0.5
+акула	школа	акула из икея	школа из икея	yes	0.5
+р-он	район	алтайский край завьяловский р-он	алтайский край завьяловский район	yes	0.5
+lev	levi	lev	levi	yes	0.5
+mater	master	alma mater	alma master	yes	0.5
+rive	river	rive gauche	river gauche	yes	0.5
+stine	stone	stine	stone	yes	0.5
+samaung	samsung	samaung note 3	samsung note 3	no	0.5
+hop	shop	батут happy hop б у	батут happy shop б у	yes	0.5
+блатные	элитные	блатные номеры	элитные номеры	no	0.5
+melian	meilan	melian	meilan	no	0.5
+алюминевые	алюминиевые	алюминевые сходни	алюминиевые сходни	no	0.5
+nord	ford	nord electro 3	ford electro 3	no	0.5
+lamborgini	lamborghini	tonino lamborgini	tonino lamborghini	yes	0.5
+калину	машину	бартер на калину	бартер на машину	yes	0.5
+beast	best	brave beast	brave best	yes	0.5
+vfg	vag	danfoss vfg 2 15	danfoss vag 2 15	no	0.5
+ресталинг	рестайлинг	212 ресталинг капот	212 рестайлинг капот	no	0.5
+human	man	detroit become human обмен	detroit become man обмен	yes	0.5
+san	sony	san might	sony might	no	0.5
+diver	drive	bs diver exel	bs drive exel	no	0.5
+ymaha	yamaha	ymaha basic jog	yamaha basic jog	yes	0.5
+автомагнитолла	автомагнитола	автомагнитолла vw tiguan	автомагнитола vw tiguan	yes	0.5
+рублевая	рулевая	10 ти рублевая монета	10 ти рулевая монета	yes	0.5
+ока	окна	бампера на ока	бампера на окна	yes	0.5
+adelette	adilette	adidas adelette	adidas adilette	no	0.5
+murella	marella	murella	marella	yes	0.5
+кулачки	кулак	bison кулачки	bison кулак	yes	0.5
+дпм	дом	dpm дпм	dpm дом	no	0.5
+теном	тентом	батарея с теном	батарея с тентом	no	0.5
+akai	kia	akai pro lpk25 25	kia pro lpk25 25	no	0.5
+котедж	коттедж	аренда котедж	аренда коттедж	no	0.5
+nfrcb	такси	djlbntkm nfrcb	djlbntkm такси	no	0.5
+skyzone	skyline	skyzone	skyline	yes	0.5
+hohner	honor	hohner b2	honor b2	no	0.5
+venza	benz	venza шлейф	benz шлейф	yes	0.5
+тверь	дверь	50 лет октября тверь	50 лет октября дверь	no	0.5
+kercher	karcher	kercher k5 20	karcher k5 20	no	0.5
+huyndai	hyundai	huyndai creta	hyundai creta	no	0.5
+гдн	гдр	6 гдн	6 гдр	no	0.5
+bvr	dvr	bvr danfoss	dvr danfoss	yes	0.5
+hyndai	hyundai	hyndai i 35	hyundai i 35	no	0.5
+gree	green	gree 18 бу	green 18 бу	yes	0.5
+jcb	usb	jcb 1	usb 1	yes	0.5
+leeco	lego	leeco le x 527	lego le x 527	yes	0.5
+awg	amg	awg 650	amg 650	no	0.5
+двиготеля	двигателя	hyundai i40 крышка двиготеля	hyundai i40 крышка двигателя	no	0.5
+canton	canon	canton dm 55	canon dm 55	yes	0.5
+esprado	esprimo	esprado	esprimo	no	0.5
+запчас	запчасть	айфоны 6 на запчас	айфоны 6 на запчасть	no	0.5
+pavillion	pavilion	hp pavillion tx 2000	hp pavilion tx 2000	no	0.5
+спортаже	спортаж	багажник на крышу киа спортаже	багажник на крышу киа спортаж	no	0.5
+бензо	бензин	бензо датчик камри	бензин датчик камри	no	0.5
+блины	плиты	блины для штанги обрезиненные	плиты для штанги обрезиненные	no	0.5
+instamax	instax	instamax	instax	no	0.5
+глина	плита	воронеж глина	воронеж плита	no	0.5
+колпаки	коляски	opel astra колпаки	opel astra коляски	yes	0.5
+радитор	радиатор	радитор отопителний на bmw34	радиатор отопителний на bmw34	yes	0.5
+vgs	vga	vgs cobra	vga cobra	yes	0.5
+kinergy	energy	hankook tire kinergy	hankook tire energy	no	0.5
+huyndai	hyundai	huyndai elantra 2010	hyundai elantra 2010	no	0.5
+bolevard	boulevard	suzuki bolevard	suzuki boulevard	no	0.5
+malagutti	malaguti	malagutti	malaguti	no	0.5
+xtrail	x-trail	nissan xtrail t30 стеклоподъемника	nissan x-trail t30 стеклоподъемника	no	0.5
+хэчбэк	хетчбэк	nissan primera p12 хэчбэк	nissan primera p12 хетчбэк	no	0.5
+stark	smart	stark 20 1 s	smart 20 1 s	yes	0.5
+алюминевая	алюминиевая	алюминевая лестница 3 метра	алюминиевая лестница 3 метра	yes	0.5
+witch	watch	ni no kuni wrath of the white witch	ni no kuni wrath of the white watch	no	0.5
+bose	bosch	акустика bose инфинити	акустика bosch инфинити	yes	0.5
+шруз	шрусы	шруз внутрений правый аккорд 7	шрусы внутрений правый аккорд 7	yes	0.5
+xkey	key	xkey 360	key 360	no	0.5
+nice	nike	nice 10	nike 10	no	0.5
+titans	titan	crash of the titans	crash of the titan	no	0.5
+перед	передач	амортизатор перед nissan	амортизатор передач nissan	no	0.5
+lend	led	toyota lend cruiser 200 телевизор	toyota led cruiser 200 телевизор	no	0.5
+аккумуляторный	аккумуляторы	аккумуляторный ударный гайковерт makita dtw1002z	аккумуляторы ударный гайковерт makita dtw1002z	yes	0.5
+steam	stels	steam controller беспроводной	stels controller беспроводной	yes	0.5
+тоета	тойота	2 лт тоета	2 лт тойота	no	0.5
+hdi	hdmi	hdi 308	hdmi 308	yes	0.5
+rhino	hino	saitek x-55 rhino	saitek x-55 hino	yes	0.5
+bmv	bmw	bmv x4 зимние колеса	bmw x4 зимние колеса	yes	0.5
+cmc	gmc	cmc	gmc	yes	0.5
+svho	sho	yamaha fx cruiser svho	yamaha fx cruiser sho	no	0.5
+hair	air	5 braun hair satin	5 braun air satin	yes	0.5
+galaxi	galaxy	samsung galaxi tab pro	samsung galaxy tab pro	yes	0.5
+боц	бой	боц 7x50	бой 7x50	yes	0.5
+fnc	атс	fnc	атс	no	0.5
+лайтер	катер	базз лайтер история игрушек	базз катер история игрушек	yes	0.5
+бартер	мастер	бартер на кирпич буханка	мастер на кирпич буханка	no	0.5
+crono	chrono	crono	chrono	yes	0.5
+renge	range	renge rover 4	range rover 4	no	0.5
+аммортизатор	амортизатора	bmw аммортизатор 34	bmw амортизатора 34	no	0.5
+база	без	база отдыха инчхе	без отдыха инчхе	yes	0.5
+бартер	мастер	бартер холл	мастер холл	no	0.5
+дск	диск	ао дск	ао диск	no	0.5
+зарядник	зарядное	батарейка и зарядник шуруповерты bosch	батарейка и зарядное шуруповерты bosch	no	0.5
+апарат	аппарата	апарат высокого давления москва	аппарата высокого давления москва	no	0.5
+besta	vesta	ikea besta	ikea vesta	yes	0.5
+пинчер	принтер	аффен пинчер	аффен принтер	yes	0.5
+airbeg	airbag	airbeg t4	airbag t4	no	0.5
+seed	speed	kia seed sw	kia speed sw	no	0.5
+-двигатель	двигатель	-двигатель фольксваген 9а	двигатель фольксваген 9а	no	0.5
+ops	ips	elite ops	elite ips	yes	0.5
+боты	болты	dainese мото боты	dainese мото болты	no	0.5
+btc	htc	btc 9051h cheetah	htc 9051h cheetah	yes	0.5
+купэ	кпп	w140 купэ	w140 кпп	yes	0.5
+www	wwe	www avito ru donlombard	wwe avito ru donlombard	no	0.5
+fara	zara	fara	zara	yes	0.5
+hudra	hydra	hudra beauty	hydra beauty	yes	0.5
+logitec	logitech	logitec k400	logitech k400	yes	0.5
+базы	без	базы для рассылки писем	без для рассылки писем	no	0.5
+hyavei	hyawei	hyavei	hyawei	no	0.5
+родиатор	радиатор	родиатор фронтера	радиатор фронтера	yes	0.5
+yfcnjkmysq	настольный	yfcnjkmysq aen jk	настольный aen jk	yes	0.5
+open	opel	toyo open country a-t	toyo opel country a-t	no	0.5
+плота	плата	балон для спасательного плота	балон для спасательного плата	yes	0.5
+акуммулятор	акумуляторы	акуммулятор для шуруповерта интерскол	акумуляторы для шуруповерта интерскол	yes	0.5
+soni	sony	soni playstation 3 red	sony playstation 3 red	yes	0.5
+краснадарский	краснодарский	авито краснадарский край	авито краснодарский край	yes	0.5
+корса	колёса	блок управления опель корса	блок управления опель колёса	no	0.5
+iwhatch	whatch	iwhatch	whatch	yes	0.5
+маркус	марку	ikea маркус	ikea марку	no	0.5
+alien	klein	qcyber alien	qcyber klein	yes	0.5
+ling	king	long ling	long king	yes	0.5
+galla	gala	galla dance	gala dance	yes	0.5
+cherry	chery	cherry amulet дверь передняя	chery amulet дверь передняя	no	0.5
+калесо	калесы	merida заднее калесо	merida заднее калесы	no	0.5
+x-box	xbox	mortal kombat x-box 360	mortal kombat xbox 360	no	0.5
+корвет	ковер	35 ас 208 корвет	35 ас 208 ковер	yes	0.5
+волк	волос	белый волк	белый волос	yes	0.5
+molo	polo	molo плавки	polo плавки	no	0.5
+electra	elantra	graco contour electra deluxe	graco contour elantra deluxe	no	0.5
+мульти	пульт	makita мульти	makita пульт	yes	0.5
+psy	psu	psy	psu	yes	0.5
+cic	ice	cic джойстик	ice джойстик	yes	0.5
+ltr	lte	ltr 450	lte 450	yes	0.5
+поршни	пороги	бмв поршни m57n	бмв пороги m57n	no	0.5
+ланос	насос	авто разбор шевроле ланос	авто разбор шевроле насос	no	0.5
+куга	киа	бампер передний форд куга	бампер передний форд киа	yes	0.5
+teket	tiket	teket	tiket	yes	0.5
+spiker	speaker	ice spiker	ice speaker	yes	0.5
+подьеник	подъемник	авто подьеник вышка	авто подъемник вышка	no	0.5
+samaung	samsung	samaung 5s	samsung 5s	yes	0.5
+onda	honda	onda 989	honda 989	yes	0.5
+тди	ауди	1 9 тди насос	1 9 ауди насос	yes	0.5
+решотка	решётка	bmw 1 f 20 решотка радиатора	bmw 1 f 20 решётка радиатора	yes	0.5
+саната	соната	аренда авто под такси саната	аренда авто под такси соната	no	0.5
+ixus	asus	canon ixus 150	canon asus 150	no	0.5
+samsungj	samsung	samsungj	samsung	yes	0.5
+bmv	bmw	6hp21 bmv	6hp21 bmw	yes	0.5
+перефаратор	префоратор	аренда перефаратор	аренда префоратор	yes	0.5
+shark	smart	paul shark s	paul smart s	yes	0.5
+чихол	чехол	samsung galaxy s8 plus чихол	samsung galaxy s8 plus чехол	yes	0.5
+карат	гараж	1 карат сережки	1 гараж сережки	no	0.5
+kenda	honda	26 2 35 kenda	26 2 35 honda	no	0.5
+коровка	коробка	божья коровка инерционная	божья коробка инерционная	yes	0.5
+авуди	авди	авуди а 8 2007 4 2 л	авди а 8 2007 4 2 л	yes	0.5
+yemaxa	yamaxa	yemaxa	yamaxa	no	0.5
+lamps	lanos	flame lamps	flame lanos	no	0.5
+болер	вольер	болер для ванны	вольер для ванны	yes	0.5
+mei	msi	love mei	love msi	yes	0.5
+audio	audi	art audio lab p135ex	art audi lab p135ex	yes	0.5
+суточно	срочно	адлер квартира по суточно	адлер квартира по срочно	no	0.5
+alpinstars	alpinestars	alpinstars durban	alpinestars durban	no	0.5
+convers	converse	convers off white	converse off white	no	0.5
+родстер	роутер	smart родстер	smart роутер	yes	0.5
+ecobaby	ergobaby	ecobaby oasis	ergobaby oasis	no	0.5
+honir	honer	honir 8	honer 8	no	0.5
+peoneer	pioner	peoneer 2 din	pioner 2 din	no	0.5
+starck	shark	starck	shark	yes	0.5
+panasonik	panasonic	panasonik cf-30 блок	panasonic cf-30 блок	no	0.5
+xonar	honor	asus xonar essence	asus honor essence	yes	0.5
+молот	золото	браслет молот тора	браслет золото тора	yes	0.5
+бизнесс	бизнесе	бизнесс в махачкале	бизнесе в махачкале	no	0.5
+марта	карта	8 марта	8 карта	no	0.5
+saints	santa	saints row 3	santa row 3	yes	0.5
+антена	антенну	антена радиостанций	антенну радиостанций	no	0.5
+тигровый	торговый	астрильд тигровый	астрильд торговый	no	0.5
+мелки	мешки	crayola мелки	crayola мешки	yes	0.5
+кател	качели	аристон кател	аристон качели	yes	0.5
+амартизаторы	амортизатора	амартизаторы на ваз 2114	амортизатора на ваз 2114	yes	0.5
+tuscan	tucson	tom ford tuscan leather	tom ford tucson leather	no	0.5
+-прицеп	прицеп	автодом-прицеп	автодом прицеп	yes	0.5
+bike	nike	y bike	y nike	no	0.5
+nord	ford	nord drum 2	ford drum 2	no	0.5
+кватиры	квартиру	2 кватиры	2 квартиру	no	0.5
+spec	space	d1 spec	d1 space	yes	0.5
+doodge	dodge	doodge caliber	dodge caliber	no	0.5
+автомобил	автомобилей	автосалон автомобил	автосалон автомобилей	yes	0.5
+per	for	per una женские	for una женские	no	0.5
+бестселер	бестселлер	бестселер центр теле2	бестселлер центр теле2	yes	0.5
+bmx	bmw	bmx 4130	bmw 4130	no	0.5
+бартер	мастер	бартер на буханку	мастер на буханку	yes	0.5
+адаптор	адаптер	iphone наушники адаптор	iphone наушники адаптер	no	0.5
+аефон	аифон	аефон 8sбу	аифон 8sбу	yes	0.5
+бош	бак	автомойки бош	автомойки бак	yes	0.5
+lucia	lumia	lucia oriflame	lumia oriflame	yes	0.5
+база	без	база для дип-34а	без для дип-34а	yes	0.5
+energi	energy	michelin energi	michelin energy	yes	0.5
+двоих	двух	браслеты на двоих	браслеты на двух	yes	0.5
+магнитафон	магнитофон	бмв е65 магнитафон	бмв е65 магнитофон	yes	0.5
+вилки	диски	амортизационные вилки	амортизационные диски	no	0.5
+audio	audi	monitor audio bronze b6	monitor audi bronze b6	no	0.5
+iphon	iphone	iphon 7plus	iphone 7plus	yes	0.5
+toyo	toyota	205 60 r16 toyo c1s	205 60 r16 toyota c1s	no	0.5
+aven	avent	aven	avent	yes	0.5
+bmx	bmw	bmx	bmw	no	0.5
+ipone	iphone	ipone 7 рст	iphone 7 рст	yes	0.5
+fokus	focus	fokus 2 универсал	focus 2 универсал	yes	0.5
+zenfon	zenfone	zenfon 2 экран	zenfone 2 экран	no	0.5
+huindai	hundai	huindai santa fe запчасти	hundai santa fe запчасти	yes	0.5
+ideacenter	ideacentre	ideacenter	ideacentre	yes	0.5
+aqua	asus	guerlain aqua allegoria lys soleia франция	guerlain asus allegoria lys soleia франция	yes	0.5
+nex	nexia	sony nex vg30	sony nexia vg30	yes	0.5
+предохронителей	предохранителей	блок предохронителей ваз 2114	блок предохранителей ваз 2114	no	0.5
+iphom	iphon	iphom	iphon	yes	0.5
+двигател	двигателей	авторазбор киров двигател ваз	авторазбор киров двигателей ваз	yes	0.5
+onda	honda	onda v919 3g air	honda v919 3g air	yes	0.5
+sefora	sephora	sefora	sephora	no	0.5
+камод	комод	антикварный камод для посуды	антикварный комод для посуды	yes	0.5
+vantage	vintage	vantage	vintage	yes	0.5
+автомобил	автомобиле	автомобил в красноярский	автомобиле в красноярский	no	0.5
+кварцит	кварц	камень кварцит черный	камень кварц черный	yes	0.5
+амартизаторы	амортизатора	амартизаторы на приору	амортизатора на приору	no	0.5
+falcone	falcon	falcone	falcon	no	0.5
+huyndai	hyundai	huyndai veloster	hyundai veloster	no	0.5
+stag	star	stag 400	star 400	yes	0.5
+cts	gtx	cadillac cts капот	cadillac gtx капот	no	0.5
+глина	плита	бетонитовая глина	бетонитовая плита	yes	0.5
+pod	ipod	line hd pod 300	line hd ipod 300	no	0.5
+kit	kia	fuji kit	fuji kia	no	0.5
+wolksvagen	volkswagen	wolksvagen passat b 5	volkswagen passat b 5	no	0.5
+бабуркина	бабушкина	бабуркина 11	бабушкина 11	no	0.5
+ljk	дол	ljk fycrfz	дол fycrfz	no	0.5
+huyndai	hyundai	huyndai santa fe 3	hyundai santa fe 3	yes	0.5
+крови	кровати	биохимический анализатор крови	биохимический анализатор кровати	yes	0.5
+сиид	сид	бампер задний на киа сиид	бампер задний на киа сид	yes	0.5
+arista	ariston	arista switch	ariston switch	no	0.5
+mersedes	mercedes	бендикс mersedes	бендикс mercedes	yes	0.5
+copin	copine	copin	copine	no	0.5
+мета	места	алкотестер мета 01	алкотестер места 01	yes	0.5
+kit	kia	samsung evolution kit	samsung evolution kia	no	0.5
+electra	elantra	harley davidson electra	harley davidson elantra	no	0.5
+стоп	стол	w211 стоп сигнал	w211 стол сигнал	yes	0.5
+красоты	работы	администратор салона красоты москва	администратор салона работы москва	yes	0.5
+jcb	usb	аренда jcb 3cx	аренда usb 3cx	yes	0.5
+toms	tom	toms мужские	tom мужские	yes	0.5
+wag	vag	автомастер wag	автомастер vag	no	0.5
+rein	rain	rein zinn	rain zinn	no	0.5
+бандо	бандаж	victoria s secret бандо 2017	victoria s secret бандаж 2017	no	0.5
+акватрон	акватон	акватрон	акватон	no	0.5
+der	ddr	der g house	ddr g house	no	0.5
+kinergy	energy	hankook kinergy eco k425	hankook energy eco k425	no	0.5
+affiniti	affinity	britax affiniti	britax affinity	yes	0.5
+storm	sport	norco storm 6 3	norco sport 6 3	no	0.5
+hyudai	hyundai	hyudai tucson	hyundai tucson	yes	0.5
+asic	asus	miner asic	miner asus	yes	0.5
+айфое	айфон	айфое 7	айфон 7	no	0.5
+usm	usb	canon ef 40 2 8 usm	canon ef 40 2 8 usb	yes	0.5
+магнитоллы	магнитолы	адаптер для магнитоллы	адаптер для магнитолы	yes	0.5
+акумулятор	аккумулятора	акумулятор б у купить	аккумулятора б у купить	yes	0.5
+mara	zara	max mara cube	max zara cube	yes	0.5
+rac	rca	hitachi rac	hitachi rca	no	0.5
+fat	fiat	jillette fat boy	jillette fiat boy	yes	0.5
+brita	britax	brita	britax	no	0.5
+бомбер	бампер	бомбер лен	бампер лен	no	0.5
+раптор	трактор	автомаляр раптор	автомаляр трактор	no	0.5
+motolend	motoland	motolend 150 скутер	motoland 150 скутер	no	0.5
+holidays	holiday	barbie happy holidays	barbie happy holiday	no	0.5
+bmx	bmw	bmx в казани	bmw в казани	yes	0.5
+motorolla	motorola	motorolla mpx220	motorola mpx220	yes	0.5
+бомбер	бампер	бомбер 3xl	бампер 3xl	yes	0.5
+спортейж	спортаж	разборка киа спортейж	разборка киа спортаж	no	0.5
+аккумуляторный	аккумуляторы	аккумуляторный воздушный компрессор	аккумуляторы воздушный компрессор	yes	0.5
+jourdan	jordan	jourdan	jordan	yes	0.5
+еловый	новый	байкальский тракт п еловый	байкальский тракт п новый	no	0.5
+audio	audi	audio technica ath-ag1x	audi technica ath-ag1x	no	0.5
+zzx	zzr	zzx	zzr	no	0.5
+акумулятор	аккумулятора	samsung акумулятор	samsung аккумулятора	no	0.5
+greco	graco	greco ss-600	graco ss-600	no	0.5
+анттена	антенна	анттена	антенна	no	0.5
+бетонит	бентонит	бетонит	бентонит	yes	0.5
+huosyng	hyosung	huosyng	hyosung	yes	0.5
+база	без	база отдыха тургояк	без отдыха тургояк	yes	0.5
+ромео	ровер	альфа ромео 147 разборка	альфа ровер 147 разборка	no	0.5
+huyndai	hyundai	huyndai tucson салон	hyundai tucson салон	no	0.5
+asp	esp	asp	esp	yes	0.5
+зафира	защита	бачок расширительный опель зафира b	бачок расширительный опель защита b	no	0.5
+bose	bosch	bose oe2i	bosch oe2i	yes	0.5
+audio	audi	resolution audio	resolution audi	yes	0.5
+fred	ford	fred rogers	ford rogers	no	0.5
+ben	benz	ben sherman харрингтон	benz sherman харрингтон	yes	0.5
+обьектив	объективы	обьектив 18 для nikon	объективы 18 для nikon	no	0.5
+бочок	бачок	бочок омывателя киа сид	бачок омывателя киа сид	yes	0.5
+ixus	asus	canon ixus 285	canon asus 285	no	0.5
+ваты	воды	аппарат сладкой ваты cf 1	аппарат сладкой воды cf 1	yes	0.5
+чероки	широки	акпп на гранд чероки 1995	акпп на гранд широки 1995	no	0.5
+baits	beats	zip baits rigge 70	zip beats rigge 70	yes	0.5
+usm	usb	canon ef 28mm f 1 8 usm	canon ef 28mm f 1 8 usb	yes	0.5
+плойка	плитка	moser плойка	moser плитка	yes	0.5
+vtx	gtx	vtx аморт	gtx аморт	yes	0.5
+mim	mix	fender jazz bass mim	fender jazz bass mix	no	0.5
+jsb	usb	jsb мини эксковатор	usb мини эксковатор	yes	0.5
+ягода	года	ягода	года	yes	0.5
+higline	highline	бампер tiguan higline	бампер tiguan highline	yes	0.5
+amaia	alaia	amaia	alaia	no	0.5
+кая	киа	ninjago кая	ninjago киа	no	0.5
+rech	tech	george rech	george tech	no	0.5
+ride	red	continental ride tour 27 5	continental red tour 27 5	no	0.5
+indie	indigo	bumbleride indie 2016	bumbleride indigo 2016	yes	0.5
+некси	нексию	бензонасос на дэу некси	бензонасос на дэу нексию	yes	0.5
+интренет	интернет	безлимитный интренет	безлимитный интернет	yes	0.5
+спейс	спец	бампер спейс стар	бампер спец стар	yes	0.5
+hakkapeliita	hakkapeliitta	255 60 18 hakkapeliita	255 60 18 hakkapeliitta	yes	0.5
+vebasto	webasto	vebasto помпа	webasto помпа	no	0.5
+мерсадес	мерседес	мерсадес 212 блок фара	мерседес 212 блок фара	yes	0.5
+marny	marni	marny	marni	no	0.5
+acura	astra	багажник acura rdx	багажник astra rdx	yes	0.5
+sandro	sandero	sandro платье	sandero платье	yes	0.5
+богажника	багажнике	kia ceed sw универсал крышка богажника	kia ceed sw универсал крышка багажнике	yes	0.5
+disel	diesel	nissan disel	nissan diesel	no	0.5
+ариада	аренда	ариада бу	аренда бу	no	0.5
+dlink	link	dlink 2230	link 2230	no	0.5
+perfume	parfum	giesso perfume	giesso parfum	yes	0.5
+train	trail	train sim	trail sim	no	0.5
+romet	romeo	romet	romeo	yes	0.5
+баю	баню	афалина баю бай	афалина баню бай	yes	0.5
+tor	tour	vertex tor	vertex tour	yes	0.5
+апарат	аппарату	апарат толстамер	аппарату толстамер	no	0.5
+артемова	артемов	артемова 7	артемов 7	yes	0.5
+simens	siemens	simens a35	siemens a35	no	0.5
+rolex	rover	rolex часы механика	rover часы механика	no	0.5
+aser	acer	aser v3-772	acer v3-772	no	0.5
+chevrole	chevrolet	chevrole aveo	chevrolet aveo	no	0.5
+bello	bell	mie bello	mie bell	yes	0.5
+crysler	chrysler	crysler concord запчасти	chrysler concord запчасти	no	0.5
+lanser	lancer	hot wheels lanser	hot wheels lancer	yes	0.5
+антены	антенны	антены рации	антенны рации	yes	0.5
+minelabe	minelab	minelabe ctx3030	minelab ctx3030	yes	0.5
+xiomi	xiaomi	xiomi mi a1	xiaomi mi a1	no	0.5
+bmv	bmw	bmv 7 серии	bmw 7 серии	yes	0.5
+jeremy	jetem	adidas jeremy	adidas jetem	yes	0.5
+бади	боди	бади	боди	no	0.5
+бартер	мастер	бартер 21099	мастер 21099	yes	0.5
+апарат	аппараты	апарат автомат	аппараты автомат	no	0.5
+toyo	toyota	toyo r 888	toyota r 888	yes	0.5
+презд	поезда	братский презд	братский поезда	no	0.5
+ibox	xbox	ibox f1	xbox f1	no	0.5
+кардан	карта	ssangyong kyron кардан	ssangyong kyron карта	no	0.5
+кросовки	кроссовка	кросовки гель женские	кроссовка гель женские	no	0.5
+ауди-	ауди	ауди-100 1983 в	ауди 100 1983 в	yes	0.5
+cannon	canon	cannon ef 50mm 1 1 4	canon ef 50mm 1 1 4	yes	0.5
+x-touch	touch	behringer x-touch universal	behringer touch universal	no	0.5
+матор	моторы	kia bongo матор	kia bongo моторы	yes	0.5
+jammer	hammer	jammer	hammer	no	0.5
+cikx	kicx	cikx	kicx	no	0.5
+idl	idol	indesit idl 60	indesit idol 60	no	0.5
+extrem	extreme	asus maximus vi extrem	asus maximus vi extreme	no	0.5
+leeco	lego	leeco экран	lego экран	no	0.5
+картин	квартир	багетные рамы для картин	багетные рамы для квартир	no	0.5
+zenfon	zenfone	asus zenfon	asus zenfone	no	0.5
+vi-fi	wi-fi	vi-fi	wi-fi	no	0.5
+tdi	audi	акпп audi q7 6 0 tdi	акпп audi q7 6 0 audi	no	0.5
+gfkfc	палас	gfkfc	палас	no	0.5
+ektra	extra	ektra	extra	yes	0.5
+анализатор	катализатор	анализатор холестерина	катализатор холестерина	yes	0.5
+sims	sim	sims одежда	sim одежда	no	0.5
+фитнесс	фитнеса	баланс фитнесс	баланс фитнеса	no	0.5
+хёндай	хундай	бампер на хёндай акцент	бампер на хундай акцент	no	0.5
+lady	lada	lady look платье	lada look платье	no	0.5
+блетус	блютус	блетус колонка	блютус колонка	no	0.5
+galetto	galletto	galetto	galletto	no	0.5
+redmy	redmi	xiaomi redmy 4	xiaomi redmi 4	no	0.5
+asta	astra	opel asta gts j	opel astra gts j	no	0.5
+магнум	магнит	автобокс на крышу магнум 300	автобокс на крышу магнит 300	yes	0.5
+astro	astra	garmin astro 320 бу	garmin astra 320 бу	no	0.5
+домик	домом	schleich домик	schleich домом	no	0.5
+боевая	новая	боевая 133	новая 133	yes	0.5
+sanyo	sony	sanyo ncr18650ga 3500mah	sony ncr18650ga 3500mah	yes	0.5
+larte	arte	larte	arte	yes	0.5
+back	black	ju ju be right back	ju ju be right black	yes	0.5
+батильоны	ботильоны	батильоны белые	ботильоны белые	no	0.5
+фарсунки	форсунки	1az fse фарсунки	1az fse форсунки	yes	0.5
+аксесуары	аксессуара	аксесуары на пег перего татамия	аксессуара на пег перего татамия	yes	0.5
+akai	kia	akai mpk 225	kia mpk 225	yes	0.5
+acura	astra	acura mdx 2010 14	astra mdx 2010 14	no	0.5
+акуумулятор	акумулятор	акуумулятор на телефон	акумулятор на телефон	no	0.5
+astron	aston	astron	aston	no	0.5
+бра	пара	бра хрустальные бронзовые	пара хрустальные бронзовые	no	0.5
+gtr	gtx	kawasaki gtr 1400 concours	kawasaki gtx 1400 concours	no	0.5
+kalvin	klein	kalvin klein футболки женские	klein klein футболки женские	yes	0.5
+анна	ванна	анна рубль	ванна рубль	yes	0.5
+pucci	gucci	emilio pucci сумка	emilio gucci сумка	yes	0.5
+бензаносос	бензонасос	бензаносос на форд 3	бензонасос на форд 3	yes	0.5
+барбари	барбара	барбари	барбара	yes	0.5
+cic	ice	джойстик bmw e60 cic	джойстик bmw e60 ice	yes	0.5
+щоссе	шоссе	боровская щоссе	боровская шоссе	no	0.5
+benetint	benefit	benetint	benefit	no	0.5
+hzljv	рядом	hzljv c djljq	рядом c djljq	no	0.5
+xonar	honor	xonar pci-e	honor pci-e	yes	0.5
+ipon	ipod	ipon 7	ipod 7	no	0.5
+samsyng	samsung	samsyng gear sport s2	samsung gear sport s2	yes	0.5
+sdi	cdi	sdi	cdi	no	0.5
+бош	бак	акб бош	акб бак	yes	0.5
+вариатор	радиатор	mitsubishi вариатор	mitsubishi радиатор	no	0.5
+салярис	солярис	тормозные диски на салярис задние	тормозные диски на солярис задние	no	0.5
+куга	киа	ford куга r18	ford киа r18	yes	0.5
+utythfnjh	генератор	utythfnjh typbyjdsq	генератор typbyjdsq	yes	0.5
+yokogama	yokohama	yokogama geolandar g033	yokohama geolandar g033	yes	0.5
+filly	fila	filly лошадки	fila лошадки	yes	0.5
+полики	полки	gx470 полики	gx470 полки	no	0.5
+акумулятор	аккумулятор	акумулятор iphone 7 plus	аккумулятор iphone 7 plus	yes	0.5
+	nano	nan кисломолочный 1	nano кисломолочный 1	yes	0.5
+tommi	tommy	tommi hilfiger парка	tommy hilfiger парка	no	0.5
+алюминивая	алюминевая	алюминивая бочка	алюминевая бочка	yes	0.5
+бочонки	бочки	бочонки пивные	бочки пивные	yes	0.5
+гениратор	генератора	астра гениратор	астра генератора	yes	0.5
+focal	focus	focal performance ps 165 f	focus performance ps 165 f	no	0.5
+didricsons	didriksons	didricsons	didriksons	yes	0.5
+речной	ручной	1 комнатная квартира на речной	1 комнатная квартира на ручной	yes	0.5
+аксесуары	аксессуара	аксесуары на ваз 2107	аксессуара на ваз 2107	no	0.5
+splinter	sprinter	splinter cell 3ds	sprinter cell 3ds	no	0.5
+bone	one	bone	one	no	0.5
+addidas	adidas	addidas 95	adidas 95	yes	0.5
+литье	платье	vw литье диски r16	vw платье диски r16	yes	0.5
+diezel	diesel	zic diezel	zic diesel	no	0.5
+пастельные	постельное	атласные пастельные белье	атласные постельное белье	yes	0.5
+hörmann	hormann	hörmann	hormann	yes	0.5
+таета	сайта	в москве машины на продажу таета камри	в москве машины на продажу сайта камри	no	0.5
+аккомулятор	аккумулятор	аккомулятор milwaukee	аккумулятор milwaukee	yes	0.5
+wolksvagen	volkswagen	wolksvagen b 5	volkswagen b 5	yes	0.5
+cruise	cruze	215 65 16 amtel cruise	215 65 16 amtel cruze	yes	0.5
+атракционов	аттракционов	администратор атракционов	администратор аттракционов	yes	0.5
+серебрянный	серебряный	аккумулятор серебрянный	аккумулятор серебряный	no	0.5
+босаножки	босоножки	босаножки сиреневые	босоножки сиреневые	no	0.5
+апарат	аппараты	апарат выского давления мойка	аппараты выского давления мойка	no	0.5
+ais	ace	nikkor 35mm ais	nikkor 35mm ace	no	0.5
+mjx	max	mjx x101	max x101	no	0.5
+parke	parker	parke ronen	parker ronen	no	0.5
+sister	duster	paul joe sister	paul joe duster	no	0.5
+репитер	ресивер	wi fi репитер	wi fi ресивер	yes	0.5
+серато	серого	блок стеклоподъемников на киа серато	блок стеклоподъемников на киа серого	yes	0.5
+ekc	elc	ekc 603505	elc 603505	yes	0.5
+cruser	cruiser	pt cruser фара правая	pt cruiser фара правая	no	0.5
+hanza	hansa	hanza	hansa	no	0.5
+тойта	тойоту	акпп тойта королла	акпп тойоту королла	no	0.5
+картина	квартира	анемоны картина	анемоны квартира	yes	0.5
+марта	карта	8 марта 92	8 карта 92	no	0.5
+беж	без	босоножки оригинал беж 38	босоножки оригинал без 38	no	0.5
+азанатор	азонатор	азанатор	азонатор	no	0.5
+фризе	фреза	бишон фризе щенки	бишон фреза щенки	no	0.5
+lessie	lassie	lessie 134	lassie 134	no	0.5
+river	rover	river island ботинки	rover island ботинки	yes	0.5
+mikra	micra	mikra	micra	yes	0.5
+toyo	toyota	205 55 r16 toyo j48	205 55 r16 toyota j48	no	0.5
+phill	phil	phill jones	phil jones	yes	0.5
+mag	max	mag safe 60w	max safe 60w	no	0.5
+бензанасос	бензонасос	бензанасос газ 53	бензонасос газ 53	yes	0.5
+stark	smart	stark surfer	smart surfer	no	0.5
+diver	drive	diver automatic	drive automatic	no	0.5
+подьемники	подъемники	авто подьемники	авто подъемники	no	0.5
+леви	левая	бмв тройка паваротник передни леви	бмв тройка паваротник передни левая	yes	0.5
+sander	sandero	sander z	sandero z	yes	0.5
+sex	srx	sex dolls	srx dolls	yes	0.5
+lene	lenne	lene ветровка	lenne ветровка	no	0.5
+аккумуляторный	аккумуляторы	аккумуляторный dyson	аккумуляторы dyson	no	0.5
+ymaha	yamaha	ymaha mt	yamaha mt	no	0.5
+fane	face	fane studio 12b 12 8 ohm	face studio 12b 12 8 ohm	no	0.5
+sheld	shield	nvidia sheld	nvidia shield	yes	0.5
+tayota	toyota	tayota vista	toyota vista	yes	0.5
+капри	капот	adidas капри	adidas капот	yes	0.5
+vello	velo	vello	velo	yes	0.5
+станжаровская	санжаровская	елена станжаровская	елена санжаровская	yes	0.5
+стилы	стиле	ботинки стилы	ботинки стиле	yes	0.5
+акамулятор	аккумулятор	акамулятор квадрокоптера	аккумулятор квадрокоптера	no	0.5
+аверлок	оверлок	аверлок	оверлок	yes	0.5
+creator	cerato	lego creator	lego cerato	no	0.5
+uliss	ulysse	uliss nardin executive	ulysse nardin executive	yes	0.5
+port	ford	gigabit 8 port	gigabit 8 ford	no	0.5
+six	aux	electric six	electric aux	yes	0.5
+аккамулятор	аккумулятора	аккамулятор для детской машины	аккумулятора для детской машины	yes	0.5
+ибн	ибп	абу али ибн сина	абу али ибп сина	yes	0.5
+gree	green	gree bora	green bora	yes	0.5
+pod	ipad	pod hd500	ipad hd500	yes	0.5
+bmv	bmw	bmv 5 серия	bmw 5 серия	no	0.5
+антена	антенна	антена радиостанции	антенна радиостанции	yes	0.5
+yamaxa	yamaha	yamaxa fzr 400	yamaha fzr 400	yes	0.5
+joby	moby	joby штатив	moby штатив	yes	0.5
+матиз	машин	бампер дэу матиз передний	бампер дэу машин передний	yes	0.5
+laney	line	laney lx20r	line lx20r	yes	0.5
+альберт	альмера	альберт камалеева	альмера камалеева	yes	0.5
+acura	astra	acura mdx противотуманки	astra mdx противотуманки	no	0.5
+плата	платье	socket 1366 материнская плата	socket 1366 материнская платье	yes	0.5
+плакат	пакет	god of war плакат	god of war пакет	no	0.5
+apolo	apollo	apolo	apollo	no	0.5
+шанель	газель	балетки шанель оригинал	балетки газель оригинал	yes	0.5
+lumina	lumia	kappa lumina	kappa lumia	yes	0.5
+анна	ванна	анна богдан	ванна богдан	yes	0.5
+snow	sony	lol snow angel	lol sony angel	no	0.5
+квартра	квартиры	1 комнатная квартра	1 комнатная квартиры	yes	0.5
+шуроповерт	шуруповерта	aeg шуроповерт акомулятор	aeg шуруповерта акомулятор	no	0.5
+les	led	les paul studio	led paul studio	yes	0.5
+сосна	окна	барный стул сосна	барный стул окна	no	0.5
+sex	srx	better than sex	better than srx	no	0.5
+хондай	хундай	бампер на хондай акцент б у	бампер на хундай акцент б у	no	0.5
+афра	афро	афра косы	афро косы	yes	0.5
+svt	cvt	svt 13	cvt 13	no	0.5
+беговой	бытовой	беговой дорожки ремонт	бытовой дорожки ремонт	no	0.5
+гелия	геля	баллоны для гелия	баллоны для геля	no	0.5
+ingersol	ingersoll	ingersol часы	ingersoll часы	yes	0.5
+метан	металл	балоны на метан бу	балоны на металл бу	yes	0.5
+альфард	альфа	бампер на тойота альфард	бампер на тойота альфа	yes	0.5
+бричстоун	бриджстоун	б-у бричстоун спорт 15 195 55	б-у бриджстоун спорт 15 195 55	no	0.5
+форс	форд	force форс	force форд	yes	0.5
+козы	кожи	англонубийские козы	англонубийские кожи	yes	0.5
+akty	acty	honda akty	honda acty	yes	0.5
+beni	benz	bebe beni	bebe benz	no	0.5
+stark	smart	stark fat 26 2	smart fat 26 2	yes	0.5
+squier	super	fender squier bullet trem blk	fender super bullet trem blk	yes	0.5
+soni	sony	soni playstation 1	sony playstation 1	yes	0.5
+share	shure	fujifilm instax share	fujifilm instax shure	yes	0.5
+таблетки	балетки	бассейн таблетки	бассейн балетки	yes	0.5
+теней	детей	аппликаторы для теней	аппликаторы для детей	yes	0.5
+ego	evo	samsung s9402 ego	samsung s9402 evo	no	0.5
+maktek	maktec	maktek	maktec	yes	0.5
+bmv	bmw	ангельские глазки bmv	ангельские глазки bmw	no	0.5
+ltd	led	ltd ta	led ta	no	0.5
+мотоцыкла	мотоцикл	бак для мотоцыкла	бак для мотоцикл	yes	0.5
+боевая	новая	боевая 34	новая 34	yes	0.5
+плата	платья	ryzen материнская плата	ryzen материнская платья	yes	0.5
+-trail	x-trail	blazer-trail-trailblazer-sailun-трайл	blazer x-trail-trailblazer-sailun-трайл	no	0.5
+rolan	ronal	rolan	ronal	yes	0.5
+kelvin	klein	kelvin klein	klein klein	no	0.5
+polk	polo	polk audio tsi	polo audio tsi	yes	0.5
+canton	canon	canton chrono	canon chrono	no	0.5
+gerry	geely	gerry veber	geely veber	no	0.5
+metall	metal	metall gear solid the legacy	metal gear solid the legacy	yes	0.5
+норд	форд	автобокс норд	автобокс форд	yes	0.5
+побегом	пробегом	авто с побегом	авто с пробегом	no	0.5
+poc	fox	poc горнолыжный	fox горнолыжный	yes	0.5
+wfr	vfr	wfr 2841	vfr 2841	no	0.5
+citizen	citroen	citizen attesa	citroen attesa	yes	0.5
+басейна	бассейна	аксессуары для басейна	аксессуары для бассейна	yes	0.5
+pinco	pink	i pinco pallino	i pink pallino	yes	0.5
+эхо	эко	бензокоса эхо	бензокоса эко	yes	0.5
+hhd	hdd	hhd 1 tb	hdd 1 tb	no	0.5
+pery	peri	pery	peri	yes	0.5
+vector	vectra	vector снегоход	vectra снегоход	no	0.5
+enjoi	enjoy	enjoi	enjoy	yes	0.5
+картридер	картридж	mlg4 картридер	mlg4 картридж	no	0.5
+dtx	gtx	dtx 1800	gtx 1800	no	0.5
+taser	laser	taser	laser	no	0.5
+duall	dual	microsoft 640 duall	microsoft 640 dual	yes	0.5
+sanata	sonata	hyundai sanata 5 тагаз	hyundai sonata 5 тагаз	no	0.5
+nicon	nikon	nicon d5100	nikon d5100	yes	0.5
+бартер	мастер	бартер каркас	мастер каркас	yes	0.5
+beat	bit	beat pro	bit pro	yes	0.5
+redial	radial	michelin redial xse	michelin radial xse	no	0.5
+buster	duster	buster прицеп	duster прицеп	yes	0.5
+bits	beats	bits	beats	no	0.5
+kavasaki	kawasaki	kavasaki kx450f	kawasaki kx450f	yes	0.5
+афоня	афон	афоня	афон	yes	0.5
+trustmaster	thrustmaster	trustmaster	thrustmaster	yes	0.5
+kicx	kia	kicx 1 350	kia 1 350	no	0.5
+бартер	мастер	бартер на авто в казани	мастер на авто в казани	yes	0.5
+комбенизон	комбинезон	crockid комбенизон	crockid комбинезон	yes	0.5
+aphone	phone	aphone x	phone x	no	0.5
+str	star	sho-me g-700 str	sho-me g-700 star	yes	0.5
+ihpone	iphone	ihpone x	iphone x	yes	0.5
+ewt	eqt	electrolux ewt	electrolux eqt	no	0.5
+при	три	бетономешалка при	бетономешалка три	yes	0.5
+агломиратор	агломератор	агломиратор	агломератор	yes	0.5
+maximo	massimo	morel maximo coax 6x9	morel massimo coax 6x9	yes	0.5
+ротор	мотор	xt ротор	xt мотор	yes	0.5
+nemezis	nemeziz	adidas nemezis	adidas nemeziz	yes	0.5
+атс	птс	атс cisco	птс cisco	yes	0.5
+алюминевый	алюминиевый	алюминевый кузов	алюминиевый кузов	no	0.5
+стоп	стол	citroen c4 стоп	citroen c4 стол	yes	0.5
+обарудование	оборудования	б у амиачные холодельное обарудование	б у амиачные холодельное оборудования	yes	0.5
+рефрижиратор	рефрижератор	isuzu рефрижиратор	isuzu рефрижератор	yes	0.5
+inglezina	inglesina	inglezina espresso	inglesina espresso	yes	0.5
+kaльян	кальян	kaльян	кальян	yes	0.5
+not	note	redmi not 4	redmi note 4	no	0.5
+astro	astra	astro a 40	astra a 40	yes	0.5
+аксесуары	аксессуара	аксесуары в детскую	аксессуара в детскую	no	0.5
+бартер	бампер	бартер на iphone 5s	бампер на iphone 5s	yes	0.5
+dogee	doogee	dogee	doogee	yes	0.5
+tcx	tech	ботинки для мото tcx	ботинки для мото tech	no	0.5
+six	aux	tom clancy rainbow six	tom clancy rainbow aux	no	0.5
+fred	ford	fred perry обувь	ford perry обувь	no	0.5
+амок	замок	амок	замок	yes	0.5
+cayin	canon	cayin ha-1a	canon ha-1a	no	0.5
+квадрациклов	квадроциклов	ремонт квадрациклов тюмень	ремонт квадроциклов тюмень	no	0.5
+матор	мотора	бмв е66 матор	бмв е66 мотора	no	0.5
+бош	бак	бош 797	бак 797	no	0.5
+автор	авито	автор работ	авито работ	no	0.5
+планер	пионер	f3k планер	f3k пионер	no	0.5
+бобер	ковер	бобер капюшоном	ковер капюшоном	no	0.5
+olimpus	olympus	адаптер для olimpus	адаптер для olympus	no	0.5
+ввс	все	ботинки ввс ссср	ботинки все ссср	no	0.5
+covrt	covert	5 11 covrt 18	5 11 covert 18	no	0.5
+кэрри	керри	kerry кэрри	kerry керри	no	0.5
+comander	commander	детский квадроцикл comander 125dd	детский квадроцикл commander 125dd	no	0.5
+дика	диски	2 дика 15	2 диски 15	no	0.5
+sanny	sunny	nissan sanny b15	nissan sunny b15	yes	0.5
+salmon	salomon	salmon queen	salomon queen	no	0.5
+hjps	розы	hjps	розы	yes	0.5
+аккамулятор	аккумулятора	аккамулятор samsung s6	аккумулятора samsung s6	yes	0.5
+kicx	kia	kicx tornado sound x1	kia tornado sound x1	yes	0.5
+start	sport	dynamic 420 start	dynamic 420 sport	yes	0.5
+абмен	обмен	абмен на полный привод	обмен на полный привод	no	0.5
+laser	lancer	canon laser base mf 3110	canon lancer base mf 3110	yes	0.5
+микрарайоне	микрорайон	1 квартира в микрарайоне оплата за месяц	1 квартира в микрорайон оплата за месяц	yes	0.5
+boogaboo	bugaboo	boogaboo twin	bugaboo twin	yes	0.5
+xone	one	allen heath xone	allen heath one	yes	0.5
+афтомобиль	автомобиль	афтомобиль газел воронеж	автомобиль газел воронеж	yes	0.5
+стеклоподьемника	стеклоподъемник	блок управления стеклоподьемника кия рио	блок управления стеклоподъемник кия рио	no	0.5
+плата	платье	6s материнская плата	6s материнская платье	yes	0.5
+aristone	ariston	aristone 30	ariston 30	yes	0.5
+бвгажник	багажник	бвгажник	багажник	yes	0.5
+rybi	rubi	rybi	rubi	yes	0.5
+красоты	работы	аренда кресла в салоне красоты	аренда кресла в салоне работы	no	0.5
+yokogama	yokohama	yokogama 215 55r17	yokohama 215 55r17	no	0.5
+динская	детская	база динская	база детская	no	0.5
+rfv	кам	peugeot 406 двигатель rfv	peugeot 406 двигатель кам	yes	0.5
+coty	city	vanilla fields coty	vanilla fields city	yes	0.5
+банм	бани	банм	бани	no	0.5
+exelent	excellent	fighter exelent	fighter excellent	yes	0.5
+cic	ice	cic e70	ice e70	yes	0.5
+navigation	navigator	ps navigation	ps navigator	yes	0.5
+mersedes	mercedes	mersedes benz clk	mercedes benz clk	no	0.5
+mersedes	mercedes	mersedes slk r170	mercedes slk r170	no	0.5
+sanyo	sony	sanyo plc xp50	sony plc xp50	yes	0.5
+vtc	мес	evic vtc mini	evic мес mini	yes	0.5
+yamaxa	yamaha	yamaxa fjr 1300	yamaha fjr 1300	no	0.5
+аксесуары	аксессуара	аксесуары для шиномонтажа	аксессуара для шиномонтажа	no	0.5
+orange	range	orange pi	range pi	yes	0.5
+жилет	лет	marella жилет	marella лет	no	0.5
+обьектив	объектив	canon 550 обьектив	canon 550 объектив	no	0.5
+метан	металл	агзс метан	агзс металл	no	0.5
+антена	антенна	антена для wi fi	антенна для wi fi	no	0.5
+fsr	far	stumpjumper fsr comp	stumpjumper far comp	yes	0.5
+audio	audi	dvd audio 5 1	dvd audi 5 1	yes	0.5
+bad	ipad	breaking bad delay	breaking ipad delay	yes	0.5
+автомобил	автомобиль	автомобил арка	автомобиль арка	no	0.5
+gll	glk	bosch gll 3-80 c	bosch glk 3-80 c	no	0.5
+war	air	god of war комиксы	god of air комиксы	yes	0.5
+поясная	пояса	osprey поясная сумка	osprey пояса сумка	no	0.5
+lessie	lassie	lessie suprafill	lassie suprafill	yes	0.5
+muji	muzi	muji	muzi	no	0.5
+игроков	игровой	автографы игроков фк динамо	автографы игровой фк динамо	yes	0.5
+prx	pro	prx 33	pro 33	yes	0.5
+kona	sony	kona горный	sony горный	yes	0.5
+zed	led	zed-fuul	led-fuul	no	0.5
+блиница	блинница	блиница бу	блинница бу	no	0.5
+tein	twin	tein mitsubishi	twin mitsubishi	no	0.5
+xanter	hunter	xanter	hunter	yes	0.5
+sumsung	samsung	sumsung a5 2016	samsung a5 2016	no	0.5
+avp	avc	danfoss avp	danfoss avc	yes	0.5
+металург	металлург	металург 56	металлург 56	yes	0.5
+brtf	икеа	rhjdfnm brtf	rhjdfnm икеа	no	0.5
+mathercare	mothercare	mathercare новая	mothercare новая	yes	0.5
+uterqe	uterque	uterqe сумка	uterque сумка	yes	0.5
+bars	bar	bars 250r	bar 250r	yes	0.5
+аквалайн	акваланг	аквалайн-170	акваланг-170	no	0.5
+cfylfkb	сандали	cfylfkb tycrbt	сандали tycrbt	no	0.5
+бмх	бмв	большие бмх	большие бмв	no	0.5
+битум	битый	битум 90	битый 90	no	0.5
+bga	vga	bga трафарет	vga трафарет	yes	0.5
+carp	car	avid carp	avid car	yes	0.5
+ass	asus	wild ass	wild asus	yes	0.5
+ipone	iphone	ipone 7 64	iphone 7 64	yes	0.5
+cумка	сумки	cумка reebok	сумки reebok	yes	0.5
+bmv	bmw	bmv m-ask	bmw m-ask	no	0.5
+rase	race	велосипед для взрослых merida road rase 903-18 2008	велосипед для взрослых merida road race 903-18 2008	yes	0.5
+автомагнитолла	автомагнитола	автомагнитолла андроид	автомагнитола андроид	yes	0.5
+pra	pro	toyota pra	toyota pro	no	0.5
+балгарка	болгарку	балгарка dewalt	болгарку dewalt	yes	0.5
+war	air	god of war iv ps4	god of air iv ps4	no	0.5
+аккомулятор	аккумулятор	аккомулятор 12в	аккумулятор 12в	yes	0.5
+linkoln	lincoln	linkoln town car	lincoln town car	no	0.5
+wolksvagen	volkswagen	wolksvagen passat b5 1 9tdi	volkswagen passat b5 1 9tdi	yes	0.5
+бидэ	биде	бидэ	биде	no	0.5
+types	type-c	types	type-c	no	0.5
+akura	acura	akura mdx	acura mdx	no	0.5
+molo	polo	molo mini a ture	polo mini a ture	yes	0.5
+steam	stels	steam ключи	stels ключи	yes	0.5
+свечи	двери	свечи накаливания boshe	двери накаливания boshe	no	0.5
+vigore	vigor	vigore	vigor	no	0.5
+pegeot	peugeot	pegeot 206 rc	peugeot 206 rc	no	0.5
+после	шоссе	автомобиль после пожара	автомобиль шоссе пожара	yes	0.5
+челси	чулки	37 5 челси	37 5 чулки	yes	0.5
+boch	bosch	villeroy boch made in luxembourg	villeroy bosch made in luxembourg	no	0.5
+решотка	решетки	бамперный решотка	бамперный решетки	yes	0.5
+зарядник	зарядки	батарейка зарядник	батарейка зарядки	yes	0.5
+botega	bottega	botega veneta	bottega veneta	yes	0.5
+акумулятор	аккумулятор	акумулятор на катер	аккумулятор на катер	no	0.5
+tuareg	touareg	tuareg тормозные диски	touareg тормозные диски	yes	0.5
+ltd	led	esp ltd m 400	esp led m 400	no	0.5
+теана	ткань	багажник задний бампер ниссан теана 31	багажник задний бампер ниссан ткань 31	yes	0.5
+антена	антенну	антена приора	антенну приора	no	0.5
+бмх	бмв	бмх будённовск	бмв будённовск	no	0.5
+laurel	lauren	laurel новый	lauren новый	no	0.5
+stunt	sound	mbk stunt	mbk sound	yes	0.5
+care	zara	baby care daily	baby zara daily	yes	0.5
+dvr	dvd	dvr камера для android	dvd камера для android	no	0.5
+нерабочая	рабочая	asus eee pc клавиатура нерабочая	asus eee pc клавиатура рабочая	no	0.5
+каропка	каробка	ауди 100 автомат каропка передач	ауди 100 автомат каробка передач	no	0.5
+бари	бани	бари тарханова	бани тарханова	yes	0.5
+свечи	двери	toyota tundra свечи	toyota tundra двери	yes	0.5
+saints	santa	saints	santa	yes	0.5
+esx	eos	esx 480	eos 480	yes	0.5
+kicx	kia	kicx 1600	kia 1600	yes	0.5
+рассроску	рассрочку	авто в рассроску	авто в рассрочку	no	0.5
+вилки	диски	адаптер под конусный шток вилки	адаптер под конусный шток диски	no	0.5
+камютер	кампютер	бартовой камютер	бартовой кампютер	yes	0.5
+gjc	пос	gjc ysq	пос ysq	no	0.5
+audio	audi	cambridge audio d 500	cambridge audi d 500	yes	0.5
+смола	столы	dental смола	dental столы	yes	0.5
+каленвал	коленвал	каленвал brp rxp	коленвал brp rxp	no	0.5
+nexiq	nexia	nexiq	nexia	yes	0.5
+onda	honda	onda v975	honda v975	no	0.5
+huyndai	hyundai	huyndai hd120 стартер	hyundai hd120 стартер	no	0.5
+база	без	база foofoo	без foofoo	yes	0.5
+obf	obd	w463 obf	w463 obd	no	0.5
+lasetti	lacetti	ferrum pribor lasetti	ferrum pribor lacetti	no	0.5
+cony	sony	cony	sony	yes	0.5
+пропан	продам	балоны пропан	балоны продам	yes	0.5
+аккомулятор	аккумулятор	аккомулятор к ноутбуку	аккумулятор к ноутбуку	yes	0.5
+комплит	комплект	бмх комплит	бмх комплект	yes	0.5
+dac	mac	moonshadow crescent dsd dac es9038pro	moonshadow crescent dsd mac es9038pro	yes	0.5
+volswagen	volkswagen	volswagen golf 2002	volkswagen golf 2002	no	0.5
+jac	jack	jac n 120	jack n 120	no	0.5
+blasterx	blaster	sound blasterx h7	sound blaster h7	no	0.5
+бартер	мастер	бартер на 15 торусы	мастер на 15 торусы	no	0.5
+vitess	vitesse	vitess новая	vitesse новая	yes	0.5
+хаммер	размер	амортизатор хаммер	амортизатор размер	no	0.5
+nisa	nysa	nisa	nysa	yes	0.5
+sline	line	бампер a6 c7 sline	бампер a6 c7 line	no	0.5
+tokina	nokia	tokina 90mm	nokia 90mm	yes	0.5
+str	star	str-de427	star-de427	no	0.5
+бассейная	бассейна	бассейная 5	бассейна 5	yes	0.5
+xonda	honda	xonda 1000 xx	honda 1000 xx	yes	0.5
+паз	газ	кордан на паз дизель	кордан на газ дизель	yes	0.5
+trace	space	trace elliot brat	space elliot brat	no	0.5
+fate	fat	fate amouage	fat amouage	no	0.5
+тупика	туника	аренда ж д тупика пути	аренда ж д туника пути	no	0.5
+раз	газ	басаножки лак 40 раз	басаножки лак 40 газ	yes	0.5
+spectrum	spectra	nike spectrum	nike spectra	yes	0.5
+sangyong	ssangyong	sangyong stavic	ssangyong stavic	yes	0.5
+petrocanada	petro-canada	petrocanada	petro-canada	yes	0.5
+nyx	max	nyx пудра	max пудра	yes	0.5
+pma	puma	denon pma 700v	denon puma 700v	yes	0.5
+nex	max	nex 3n	max 3n	yes	0.5
+sonyo	sanyo	sonyo	sanyo	yes	0.5
+тигр	игр	ахатина ахатина тигр	ахатина ахатина игр	yes	0.5
+вентелятора	вентилятора	блок управления вентелятора вольво	блок управления вентилятора вольво	no	0.5
+botmaster	boatmaster	botmaster 310k	boatmaster 310k	yes	0.5
+dlink	d-link	dlink ip	d-link ip	no	0.5
+aura	air	rico aura	rico air	yes	0.5
+баторейки	батарейки	баторейки	батарейки	yes	0.5
+магнитоллы	магнитол	santa fe рамка магнитоллы	santa fe рамка магнитол	no	0.5
+японцы	япония	автомат японцы	автомат япония	no	0.5
+алюминевые	алюминиевый	алюминевые окна бу	алюминиевый окна бу	no	0.5
+hyunday	hyundai	hyunday solaris колпак	hyundai solaris колпак	no	0.5
+rolf	golf	viktor rolf	viktor golf	no	0.5
+peoneer	pioner	peoneer 40	pioner 40	no	0.5
+аккустика	акустика	аккустика yamaha	акустика yamaha	yes	0.5
+micado	mikado	micado	mikado	no	0.5
+плата	платья	gigabyte материнская плата сокет am3	gigabyte материнская платья сокет am3	no	0.5
+дикси	диски	бокалы из дикси	бокалы из диски	yes	0.5
+aerpods	airpods	aerpods	airpods	no	0.5
+nex	max	minolta af nex	minolta af max	no	0.5
+uncarted	uncharted	uncarted 4 ps4	uncharted 4 ps4	no	0.5
+смд	сид	блок цилиндров смд 14	блок цилиндров сид 14	yes	0.5
+x-box	xbox	x-box one s 500gb	xbox one s 500gb	no	0.5
+prim	prime	prim body	prime body	no	0.5
+акумулятор	аккумулятора	акумулятор для телефона fly	аккумулятора для телефона fly	yes	0.5
+нисан	диван	бокс на крышу нисан	бокс на крышу диван	yes	0.5
+безиборд	бизиборд	безиборд	бизиборд	no	0.5
+бмх	бмв	бмх игрушка	бмв игрушка	yes	0.5
+haven	heaven	adidas haven black	adidas heaven black	no	0.5
+стан	штаны	3 комнатная тёплый стан	3 комнатная тёплый штаны	no	0.5
+козлики	кролики	альпийской нубийские козлики	альпийской нубийские кролики	no	0.5
+tone	one	classic tone	classic one	yes	0.5
+акуумулятор	аккумулятор	акуумулятор 6 в	аккумулятор 6 в	yes	0.5
+kingstone	kingston	usb kingstone 64 gb	usb kingston 64 gb	yes	0.5
+siii	iii	samsung siii	samsung iii	no	0.5
+clone	stone	lego clone	lego stone	yes	0.5
+audio	audi	cambridge audio d	cambridge audi d	yes	0.5
+lfx	дач	xu7jb lfx	xu7jb дач	no	0.5
+малька	мальчика	coppens для малька	coppens для мальчика	no	0.5
+сука	сумка	американская акита ркф сука	американская акита ркф сумка	no	0.5
+стилус	стиле	samsung galaxy note 10 1 стилус	samsung galaxy note 10 1 стиле	yes	0.5
+аккамулятор	аккумуляторе	аккамулятор для погрузчика	аккумуляторе для погрузчика	no	0.5
+выкупим	купим	авто в аренду под такси с выкупим	авто в аренду под такси с купим	no	0.5
+t-s	ats	235 70 16 yokohama geolander i t-s g073	235 70 16 yokohama geolander i ats g073	yes	0.5
+pasat	passat	volksvagen pasat	volksvagen passat	yes	0.5
+flacon	falcon	flacon	falcon	no	0.5
+fis	fish	elan slx fis plate	elan slx fish plate	yes	0.5
+xstore	store	xstore	store	yes	0.5
+mml	mmi	metalmaster mml 2870	metalmaster mmi 2870	no	0.5
+bmx	bmw	bmx стресс	bmw стресс	yes	0.5
+aqua	asus	chanel aqua	chanel asus	yes	0.5
+gaia	kia	cult gaia	cult kia	yes	0.5
+baggy	buggy	baggy	buggy	yes	0.5
+коп	кпп	3 коп 1902	3 кпп 1902	no	0.5
+kics	kicx	kics 1 1000	kicx 1 1000	no	0.5
+vira	vita	rant vira	rant vita	yes	0.5
+vba	миф	vba программист	миф программист	yes	0.5
+mihelin	michelin	mihelin primacy hp 215 55 16	michelin primacy hp 215 55 16	yes	0.5
+wolksvagen	volkswagen	wolksvagen passat 1 8 2013	volkswagen passat 1 8 2013	no	0.5
+rolex	rover	rolex original	rover original	yes	0.5
+соленойд	соленоиды	5r55w соленойд	5r55w соленоиды	yes	0.5
+toyta	toyota	toyta d4	toyota d4	yes	0.5
+керпич	кирпичи	б у керпич красный	б у кирпичи красный	no	0.5
+loe	leo	loe bonamassa	leo bonamassa	no	0.5
+вариатор	радиатор	t31 вариатор	t31 радиатор	no	0.5
+сузуки	сумки	авторазборка сузуки сх4	авторазборка сумки сх4	yes	0.5
+gattioni	gattinoni	gattioni	gattinoni	no	0.5
+roam	roan	giant roam 3	giant roan 3	yes	0.5
+alfare	allure	alfare allergy	allure allergy	no	0.5
+анализатор	катализатор	анализатор сигналов	катализатор сигналов	no	0.5
+атлендер	аутлендер	атлендер	аутлендер	yes	0.5
+gti	gtx	gti гольф 5	gtx гольф 5	no	0.5
+акамулятор	аккумулятор	lg l7 акамулятор	lg l7 аккумулятор	no	0.5
+нерабочий	рабочий	hdd нерабочий	hdd рабочий	yes	0.5
+uplay	play	htc uplay	htc play	no	0.5
+бартер	бампер	стройматериалы бартер на недвижимость	стройматериалы бампер на недвижимость	no	0.5
+toyo	toyota	toyo proxes r20 275 40	toyota proxes r20 275 40	no	0.5
+eastpack	eastpak	eastpack	eastpak	no	0.5
+samyung	samyang	samyung	samyang	yes	0.5
+typ	type	typ 210	type 210	yes	0.5
+valeo	volvo	valeo 2655023	volvo 2655023	no	0.5
+бочок	бачок	w 210 бочок стеклоомывателя	w 210 бачок стеклоомывателя	no	0.5
+аммортизатор	амортизатора	аммортизатор шкода октавия а7	амортизатора шкода октавия а7	yes	0.5
+поршни	пороги	поршни ford focus 3 2 0	пороги ford focus 3 2 0	no	0.5
+антена	антенну	антена kia	антенну kia	yes	0.5
+панно	ванной	большое панно на стену	большое ванной на стену	yes	0.5
+трубная	труба	2-х комнатная трубная	2-х комнатная труба	no	0.5
+porche	porsche	porche 918 spyder	porsche 918 spyder	no	0.5
+форд-	форд	битые форд-фокус 1	битые форд фокус 1	no	0.5
+богажника	багажнике	богажника	багажнике	no	0.5
+tehnika	technica	audio tehnika	audio technica	no	0.5
+акуумуляторы	аккумулятор	акуумуляторы от ноутбуков	аккумулятор от ноутбуков	no	0.5
+hofman	hofmann	балансировочный станок hofman	балансировочный станок hofmann	yes	0.5
+shevrolet	chevrolet	shevrolet cobalt	chevrolet cobalt	no	0.5
+шипы	шины	бахилы зимние шипы hooper	бахилы зимние шины hooper	no	0.5
+hundai	hyundai	hundai 78	hyundai 78	no	0.5
+mersedes	mercedes	mersedes w129	mercedes w129	no	0.5
+storm	sport	wileyfox storm 3	wileyfox sport 3	no	0.5
+for	ford	tea for two	tea ford two	yes	0.5
+tos	eos	tos станок фрезерный	eos станок фрезерный	no	0.5
+arden	green	elizabeth arden sunflowers	elizabeth green sunflowers	yes	0.5
+toyo	toyota	toyo 195 55 15	toyota 195 55 15	yes	0.5
+totota	toyota	totota corolla 1998	toyota corolla 1998	no	0.5
+городок	город	1-к комнатная лесной городок	1-к комнатная лесной город	no	0.5
+vector	vectra	vector 48 gt	vectra 48 gt	no	0.5
+gthajhfnjh	перфоратор	gthajhfnjh	перфоратор	yes	0.5
+корса	колеса	авто запчасти на опель корса	авто запчасти на опель колеса	yes	0.5
+kobalt	cobalt	chevrolet kobalt	chevrolet cobalt	yes	0.5
+samaung	samsung	samaung tab 10	samsung tab 10	yes	0.5
+nessa	nexia	nessa nissan r	nexia nissan r	yes	0.5
+aero	air	active aero	active air	no	0.5
+seni	sony	seni 1	sony 1	yes	0.5
+дождевые	дождевик	reima штаны дождевые	reima штаны дождевик	yes	0.5
+апарат	аппарата	апарат для маникюра stronge	аппарата для маникюра stronge	yes	0.5
+gks	gls	bosch gks 65	bosch gls 65	no	0.5
+treal	trial	treal	trial	no	0.5
+антена	антенну	антена диполь	антенну диполь	yes	0.5
+roze	rose	turaidas roze	turaidas rose	yes	0.5
+кросовки	кроссовки	geox кросовки	geox кроссовки	no	0.5
+miu	mini	miu miu 37	mini mini 37	no	0.5
+база	без	автокресло база family	автокресло без family	no	0.5
+длительно	длительный	дом снять в сочи длительно	дом снять в сочи длительный	no	0.5
+gsc	gsx	gsc	gsx	yes	0.5
+itdhjkt	шевроле	itdhjkt fdtj	шевроле fdtj	yes	0.5
+pmp	psp	prestigio pmp 3007	prestigio psp 3007	no	0.5
+ifhone	ipone	ifhone 4s	ipone 4s	yes	0.5
+chantal	chanel	thomass chantal	thomass chanel	no	0.5
+авосервис	автосервис	авосервис	автосервис	no	0.5
+аккомуляторный	аккумуляторный	аккомуляторный триммер	аккумуляторный триммер	yes	0.5
+шаверма	шаурма	аппарат грилы доя шаверма бу	аппарат грилы доя шаурма бу	no	0.5
+mono	mini	diorshow fusion mono	diorshow fusion mini	yes	0.5
+fls	gls	ardo fls 105	ardo gls 105	no	0.5
+асистент	ассистент	асистент без опыта работы	ассистент без опыта работы	yes	0.5
+каре	карт	hermes каре	hermes карт	no	0.5
+oktavia	octavia	oktavia mpi	octavia mpi	yes	0.5
+смола	столы	бочки эпоксидная смола	бочки эпоксидная столы	no	0.5
+shtorm	storm	geo shtorm	geo storm	yes	0.5
+аммортизаторы	амортизатор	аммортизаторы импреза	амортизатор импреза	yes	0.5
+hundai	hyundai	hundai accent verna	hyundai accent verna	no	0.5
+плата	платье	k53sv материнская плата	k53sv материнская платье	yes	0.5
+автомрбиль	автомобили	автомрбиль	автомобили	yes	0.5
+база	без	база алтай	без алтай	no	0.5
+denton	denon	denton target	denon target	no	0.5
+extrime	xtreme	rampage extrime	rampage xtreme	no	0.5
+irbiz	irbis	irbiz	irbis	yes	0.5
+nvidea	nvidia	nvidea geforce 710	nvidia geforce 710	yes	0.5
+ixus	asus	ixus 285 hs	asus 285 hs	yes	0.5
+gbn	gbh	gbn fqrb	gbh fqrb	no	0.5
+akai	kia	akai 630	kia 630	no	0.5
+кот	год	бирманский кот	бирманский год	no	0.5
+белорус	беларусь	купить цепи на белорус	купить цепи на беларусь	yes	0.5
+грязевые	грузовые	35 колеса грязевые	35 колеса грузовые	no	0.5
+xaiomi	xiaomi	xaiomi redmi note 5 4 64 gb	xiaomi redmi note 5 4 64 gb	yes	0.5
+водный	водой	1 комн водный мир	1 комн водой мир	yes	0.5
+машинные	машины	машинные колонки 10	машины колонки 10	yes	0.5
+botega	bottega	botega veneta сумка	bottega veneta сумка	yes	0.5
+зид	зил	амортизатор зид курьер	амортизатор зил курьер	yes	0.5
+niel	neil	niel barret	neil barret	no	0.5
+белка	балка	белка чернобурка	балка чернобурка	no	0.5
+care	zara	pampers premium care трусики 4	pampers premium zara трусики 4	yes	0.5
+mtr	mtb	mtr denelli	mtb denelli	yes	0.5
+решотка	решетка	kia sportage решотка	kia sportage решетка	yes	0.5
+rader	rider	scala rader	scala rider	no	0.5
+scoot	scooter	stokke scoot v3 текстиль	stokke scooter v3 текстиль	yes	0.5
+aqua	asus	philips aqua	philips asus	no	0.5
+spin	pin	acer spin 3	acer pin 3	yes	0.5
+касса	класса	pos касса	pos класса	yes	0.5
+lauder	lauren	lauder double	lauren double	no	0.5
+war	air	god of war playstation 2	god of air playstation 2	yes	0.5
+houme	home	zara houme	zara home	no	0.5
+blg	big	blg блок цилиндров	big блок цилиндров	yes	0.5
+bmcx	bmx	bmcx	bmx	yes	0.5
+scoot	scooter	razor two dirt scoot	razor two dirt scooter	yes	0.5
+башкири	башкирии	башкири	башкирии	no	0.5
+arv	atv	arv 168	atv 168	no	0.5
+tdx	trx	tdx 5	trx 5	no	0.5
+асы	часы	асы	часы	yes	0.5
+dap	dsp	dap 1320	dsp 1320	yes	0.5
+porshe	porsche	porshe 911 turbo	porsche 911 turbo	yes	0.5
+bluray	blu-ray	samsung bluray	samsung blu-ray	yes	0.5
+audio	audi	mac audio ice fire 225	mac audi ice fire 225	no	0.5
+nicon	nikon	nicon d3100	nikon d3100	yes	0.5
+rih	rich	bork ap rih 1960 bk	bork ap rich 1960 bk	no	0.5
+lady	lada	dior lady	dior lada	no	0.5
+kerher	karcher	kerher мойка	karcher мойка	yes	0.5
+ymc	jmc	ymc	jmc	yes	0.5
+альпайн	алпайн	альпайн магнитола 2din	алпайн магнитола 2din	yes	0.5
+toni	tiny	be be toni	be be tiny	no	0.5
+болер	вольер	болер электро	вольер электро	yes	0.5
+гир	кир	ремешок для часов самсунг гир 3	ремешок для часов самсунг кир 3	no	0.5
+soni	sony	soni xperia tablet z 4	sony xperia tablet z 4	yes	0.5
+tuareg	touareg	tuareg фаркоп	touareg фаркоп	no	0.5
+stars	star	jackson stars warrior	jackson star warrior	no	0.5
+астрахова	страховка	астрахова	страховка	yes	0.5
+акумулятор	аккумуляторе	акумулятор а3 2017	аккумуляторе а3 2017	yes	0.5
+btwin	twin	btwin mistigirl	twin mistigirl	yes	0.5
+galaxi	galaxy	samsung galaxi a3 2016	samsung galaxy a3 2016	yes	0.5
+dsguared	dsquared	dsguared куртка	dsquared куртка	no	0.5
+dgs	dsg	dgs 3100	dsg 3100	no	0.5
+бензо	бензин	бензо бак опель	бензин бак опель	no	0.5
+suprim	supreme	suprim	supreme	no	0.5
+сауна	салона	аренда дом сауна	аренда дом салона	no	0.5
+ymaha	yamaha	ymaha 125	yamaha 125	yes	0.5
+tayota	toyota	tayota land cruiser 100	toyota land cruiser 100	no	0.5
+jcb	usb	jcb 3sx super	usb 3sx super	no	0.5
+waio	vaio	sony waio duo 13	sony vaio duo 13	yes	0.5
+carneliani	corneliani	carneliani	corneliani	yes	0.5
+motolend	motoland	motolend atv 250s	motoland atv 250s	no	0.5
+шеврале	шевроле	акпп шеврале эпика	акпп шевроле эпика	yes	0.5
+акумулятор	аккумулятора	акумулятор redmi 4	аккумулятора redmi 4	no	0.5
+сливной	личной	бачек сливной	бачек личной	no	0.5
+strom	storm	susuki v strom 650	susuki v storm 650	no	0.5
+бартер	бампер	бартер на сантехнику	бампер на сантехнику	yes	0.5
+аккамулятор	аккумуляторы	аккамулятор ipad air	аккумуляторы ipad air	no	0.5
+les	led	les belles de ricci liberte acidulee	led belles de ricci liberte acidulee	no	0.5
+архипоосиповка	архипо-осиповка	архипоосиповка	архипо-осиповка	no	0.5
+басейн	бассейны	басейн детский	бассейны детский	yes	0.5
+бачек	бачке	бачек от унитаза	бачке от унитаза	yes	0.5
+сузуки	сумки	гофры на сузуки	гофры на сумки	no	0.5
+roces	rover	roces 175	rover 175	yes	0.5
+бассет	рассел	бассет хаунд вязка	рассел хаунд вязка	yes	0.5
+бартер	мастер	бартер на ваз	мастер на ваз	no	0.5
+cowon	canon	cowon e	canon e	yes	0.5
+hds	hdd	hds 558 c	hdd 558 c	yes	0.5
+ped	pad	go ped	go pad	no	0.5
+gearz	gears	gearz	gears	no	0.5
+cybve	сниму	cybve	сниму	yes	0.5
+did	dvd	did тело	dvd тело	yes	0.5
+viessman	viessmann	viessman насос	viessmann насос	yes	0.5
+gefoce	geforce	gefoce 210	geforce 210	no	0.5
+микрафоны	микрофоны	беспроводные микрафоны	беспроводные микрофоны	no	0.5
+wiu	wii	wiu 100	wii 100	no	0.5
+higscreen	highscreen	higscreen power	highscreen power	yes	0.5
+late	lite	macbook pro 15 late 2008	macbook pro 15 lite 2008	no	0.5
+картер	карты	акпп картер	акпп карты	yes	0.5
+англиский	английский	англиский бульдог	английский бульдог	no	0.5
+шаран	гараж	тюнинг для фольксваген шаран	тюнинг для фольксваген гараж	yes	0.5
+баффер	бафер	баффер	бафер	yes	0.5
+vtx	gtx	vtx	gtx	no	0.5
+коники	коньки	20 тонн коники	20 тонн коньки	yes	0.5
+акумулятор	аккумулятор	акумулятор на шуруповерт интерскол	аккумулятор на шуруповерт интерскол	yes	0.5
+candy	camry	maclaren volo dylans candy bar	maclaren volo dylans camry bar	yes	0.5
+brazer	blazer	two brazer	two blazer	yes	0.5
+sub	usb	canton sub	canton usb	yes	0.5
+bom	boom	bom box	boom box	no	0.5
+lexsus	nexus	lexsus gs350 4 фары	nexus gs350 4 фары	yes	0.5
+bmx	bmw	bmx седушка	bmw седушка	yes	0.5
+гд-	гдн	6 гд-4	6 гдн 4	no	0.5
+georg	george	jensen georg	jensen george	yes	0.5
+dlink	link	dlink 2210	link 2210	no	0.5
+назад	мазда	22 дня назад	22 дня мазда	yes	0.5
+метан	металл	transit метан	transit металл	yes	0.5
+автокомпресор	автокомпрессор	автокомпресор	автокомпрессор	no	0.5
+новоросийск	новороссийск	банки новоросийск	банки новороссийск	no	0.5
+плов	полов	блюдо под плов	блюдо под полов	no	0.5
+cheroke	cherokee	jeep grand cheroke wj привод передний	jeep grand cherokee wj привод передний	no	0.5
+боллер	бойлеры	боллер горизонтальный	бойлеры горизонтальный	no	0.5
+боксерки	боксерские	боксерки 44-45 размер	боксерские 44-45 размер	no	0.5
+gad	god	pontoon-21 gad gancho	pontoon-21 god gancho	yes	0.5
+ланос	насос	битый авто ланос	битый авто насос	no	0.5
+lossi	losi	lossi	losi	no	0.5
+алюминевые	алюминиевое	алюминевые заготовки	алюминиевое заготовки	no	0.5
+braslet	bracelet	braslet	bracelet	no	0.5
+rjah	кофр	rjah	кофр	no	0.5
+бигиль	бигль	бигиль	бигль	no	0.5
+hundai	hyundai	hundai ix35 автомобиль	hyundai ix35 автомобиль	yes	0.5
+kenda	honda	kenda 20	honda 20	yes	0.5
+атирадар	антирадар	атирадар	антирадар	no	0.5
+xxxx	xxx	bauer vapor xxxx	bauer vapor xxx	no	0.5
+rjat	кофе	rjat	кофе	yes	0.5
+басейн	бассейны	басейн интекс	бассейны интекс	yes	0.5
+mersedes	mercedes	mersedes c разбор	mercedes c разбор	yes	0.5
+титан	диван	thule touring 200 титан	thule touring 200 диван	no	0.5
+fitnes	fitness	fitnes	fitness	no	0.5
+smw	bmw	smw	bmw	no	0.5
+samsumg	samsung	samsumg 7	samsung 7	no	0.5
+cor	acer	cor 5	acer 5	no	0.5
+modal	model	modal	model	yes	0.5
+soni	sony	mp3 плеер soni	mp3 плеер sony	yes	0.5
+trv	trw	arctic cat 700 trv cruizer	arctic cat 700 trw cruizer	no	0.5
+база	без	база make up	без make up	yes	0.5
+bosh	bosch	bosh перфоратор	bosch перфоратор	yes	0.5
+абонимент	абонемент	бассейн абонимент	бассейн абонемент	yes	0.5
+ворот	город	автоматика для сдвижных ворот	автоматика для сдвижных город	no	0.5
+дону	дом	автомобили ростовна дону авомоли	автомобили ростовна дом авомоли	yes	0.5
+сьезда	съезда	26 сьезда кпсс	26 съезда кпсс	yes	0.5
+стеклоподьемника	стеклоподъемника	блок управления стеклоподьемника на ниссан	блок управления стеклоподъемника на ниссан	no	0.5
+lune	line	de lune рюкзаки	de line рюкзаки	yes	0.5
+add	and	add женский пуховик	and женский пуховик	no	0.5
+camaro	camry	camaro 2002	camry 2002	no	0.5
+мерседесс	мерседес	двигатель мерседесс мл 164	двигатель мерседес мл 164	yes	0.5
+банер	бампер	банер для стройки	бампер для стройки	no	0.5
+ikon	iron	ikon sub mkii	iron sub mkii	no	0.5
+venetta	veneta	мужская мокасины venetta	мужская мокасины veneta	no	0.5
+ista	insta	ista bmw	insta bmw	no	0.5
+ifone	iphone	ifone 7 plus	iphone 7 plus	yes	0.5
+bosh	bosch	bosh benvenuto	bosch benvenuto	no	0.5
+nexx	next	nexx nf-345	next nf-345	no	0.5
+тюннинг	тюнинг	polo тюннинг	polo тюнинг	yes	0.5
+addidas	adidas	босоножки addidas	босоножки adidas	no	0.5
+матрикс	матрица	хундай матрикс кулак правый	хундай матрица кулак правый	no	0.5
+for	ford	need for speed payback ps4	need ford speed payback ps4	yes	0.5
+sargo	targa	sargo	targa	no	0.5
+istudio	studio	istudio	studio	no	0.5
+karl	carlo	karl lagerfeld сумка	carlo lagerfeld сумка	yes	0.5
+акуумулятор	аккумуляторы	акуумулятор щелочной	аккумуляторы щелочной	yes	0.5
+mad	max	mad men	max men	no	0.5
+tdi	audi	audi a4 1 9 tdi	audi a4 1 9 audi	yes	0.5
+вмв	бмв	акпп вмв	акпп бмв	yes	0.5
+запчачсти	запчасти	venza запчачсти	venza запчасти	yes	0.5
+molo	polo	molo blue	polo blue	no	0.5
+atomik	atomic	norco atomik	norco atomic	yes	0.5
+asic	asus	asic майнер l3 580 mh s	asus майнер l3 580 mh s	yes	0.5
+lauder	lauren	este lauder este	este lauren este	no	0.5
+дифузор	диффузора	outlander дифузор	outlander диффузора	yes	0.5
+супорт	суппорт	infiniti fx35 супорт	infiniti fx35 суппорт	yes	0.5
+optimus	optima	lg optimus vu p895	lg optima vu p895	yes	0.5
+бордачок	бардачок	бордачок	бардачок	yes	0.5
+cts	gtx	cadillac cts радиатор	cadillac gtx радиатор	yes	0.5
+пит	плит	амортизатор на пит	амортизатор на плит	no	0.5
+flp	flip	flp	flip	yes	0.5
+gir	gear	samsung gir vr	samsung gear vr	yes	0.5
+akai	kia	akai renesans	kia renesans	yes	0.5
+отель	модель	апарт отель мини отель гостиница	апарт модель мини модель гостиница	no	0.5
+соски	диски	avent соски	avent диски	no	0.5
+фанарь	фонаря	gle фанарь	gle фонаря	yes	0.5
+гидроскутера	гироскутер	батарея для гидроскутера	батарея для гироскутер	no	0.5
+tpass	pass	tpass	pass	no	0.5
+dxm	dmx	numark dxm	numark dmx	yes	0.5
+pull	polo	pull and bear mom	polo and bear mom	no	0.5
+toyta	toyota	toyta trueno	toyota trueno	yes	0.5
+асистент	ассистент	асистент	ассистент	no	0.5
+водный	водой	баллон водный	баллон водой	no	0.5
+сцеление	сцепление	газель сцеление	газель сцепление	no	0.5
+фанарь	фонари	range rover vogue 3 фанарь задний	range rover vogue 3 фонари задний	yes	0.5
+yamaxa	yamaha	yamaxa bws	yamaha bws	yes	0.5
+плата	платье	zte blade l3 плата	zte blade l3 платье	yes	0.5
+hyndai	hyundai	hyndai sonata 2016 дверь	hyundai sonata 2016 дверь	no	0.5
+база	без	база отдыха с озером	без отдыха с озером	yes	0.5
+банпера	бампер	банпера	бампер	no	0.5
+арбакасы	абаркасы	арбакасы	абаркасы	no	0.5
+idtqyfz	швейная	idtqyfz	швейная	no	0.5
+huindai	hyundai	huindai elantra бензобак	hyundai elantra бензобак	yes	0.5
+баннер	бампер	баннер черный	бампер черный	yes	0.5
+forge	force	forge vag	force vag	yes	0.5
+late	lite	macbook pro 13 late 2011	macbook pro 13 lite 2011	yes	0.5
+lulu	lol	lulu paris	lol paris	no	0.5
+баночки	банок	баночки мясные	банок мясные	no	0.5
+omax	max	omax since	max since	no	0.5
+fvabnjy	амфитон	fvabnjy	амфитон	yes	0.5
+gtl	gti	k 1600 gtl	k 1600 gti	no	0.5
+soni	sony	soni playstation 4 аренда	sony playstation 4 аренда	no	0.5
+alkatel	alcatel	alkatel one touch idol	alcatel one touch idol	no	0.5
+акумулятор	аккумуляторе	акумулятор hitachi	аккумуляторе hitachi	no	0.5
+зафира	защита	багажник на опель зафира	багажник на опель защита	no	0.5
+антены	антенна	антены спутниковые тарелки	антенна спутниковые тарелки	yes	0.5
+хол	угол	блек хол	блек угол	yes	0.5
+cover	rover	silicon cover s9	silicon rover s9	no	0.5
+window	windows	nokia window	nokia windows	yes	0.5
+hunday	hyundai	безопастность hunday i30	безопастность hyundai i30	yes	0.5
+айфрн	айфоны	айфрн 5	айфоны 5	yes	0.5
+angeleye	angeles	angeleye ae603	angeles ae603	yes	0.5
+port	ford	air port express	air ford express	yes	0.5
+x-lane	x-line	kio x-lane	kio x-line	yes	0.5
+арматурная	арматура	арматурная сетка	арматура сетка	yes	0.5
+стеклоподьемниками	стеклоподъемниками	блок управления стеклоподьемниками пежо 406	блок управления стеклоподъемниками пежо 406	yes	0.5
+römer	romer	britax römer baby-safe	britax romer baby-safe	yes	0.5
+каропка	каробка	volvo s 80 каропка	volvo s 80 каробка	no	0.5
+word	ford	the giant word book	the giant ford book	no	0.5
+pops	pop	alcatel pops	alcatel pop	yes	0.5
+колектор	коллектора	3sgte колектор	3sgte коллектора	yes	0.5
+приборка	приборы	honda cb 400 приборка	honda cb 400 приборы	yes	0.5
+aire	air	aire loco loewe	air loco loewe	no	0.5
+ndx	hdx	ndx	hdx	no	0.5
+per	for	per perego детский стульчик	for perego детский стульчик	no	0.5
+avto	avito	avto омск	avito омск	yes	0.5
+hvl-	hvl	hvl-60	hvl 60	no	0.5
+плата	платье	acer aspire 5920g материнская плата	acer aspire 5920g материнская платье	no	0.5
+ангорский	ангарский	ангорский	ангарский	yes	0.5
+немерная	мерная	арматура немерная ф 12	арматура мерная ф 12	no	0.5
+lorensi	lorenzi	lorensi	lorenzi	no	0.5
+защитник	защитный	защитник бампера bmw f30	защитный бампера bmw f30	yes	0.5
+база	без	maxi cosi fix база	maxi cosi fix без	no	0.5
+супорты	суппорты	супорты ваз классика	суппорты ваз классика	yes	0.5
+апорат	апарат	апорат для шавермы	апарат для шавермы	yes	0.5
+camper	cooper	camper обувь	cooper обувь	yes	0.5
+нет	нкт	iphone 8 коробки нет	iphone 8 коробки нкт	yes	0.5
+sylvia	silvia	sylvia natterer	silvia natterer	yes	0.5
+bad	ipad	vw golf 4 bad	vw golf 4 ipad	yes	0.5
+bose	bosch	bose комплект audi a6	bosch комплект audi a6	no	0.5
+kit	kia	inglezina kit auto	inglezina kia auto	yes	0.5
+xtr	чек	itp xtr	itp чек	yes	0.5
+бартер	мастер	бартер калина	мастер калина	yes	0.5
+богажника	багажника	2111 крышка богажника	2111 крышка багажника	yes	0.5
+mysso	musso	ssangyong mysso	ssangyong musso	yes	0.5
+pegeot	peugeot	pegeot 5008	peugeot 5008	yes	0.5
+citroën	citroen	бампер citroën	бампер citroen	no	0.5
+ldjqyb	двойни	rjkzcrf lkz ldjqyb	rjkzcrf lkz двойни	no	0.5
+six	aux	kona stinky six	kona stinky aux	yes	0.5
+mersedes	mercedes	mersedes benz 140	mercedes benz 140	yes	0.5
+балет	балетки	большой балет	большой балетки	no	0.5
+benli	benly	honda benli	honda benly	yes	0.5
+pas	pad	босоножки pas de	босоножки pad de	yes	0.5
+кот	год	белый кот не кастрирован	белый год не кастрирован	yes	0.5
+zenfon	zenfone	asus zenfon 3 deluxe	asus zenfone 3 deluxe	no	0.5
+bock	book	otto bock 28r16	otto book 28r16	yes	0.5
+delongi	delonghi	delongi ecam 22 360	delonghi ecam 22 360	no	0.5
+rabota	kubota	https www avito ru ekaterinburg rabota s_trg 6	https www avito ru ekaterinburg kubota s_trg 6	no	0.5
+moët	moet	moët	moet	yes	0.5
+автомобил	автомобиле	автомобил спробегом	автомобиле спробегом	no	0.5
+scart	smart	scart sega	smart sega	no	0.5
+squier	super	squier classic vibe	super classic vibe	no	0.5
+акамулятор	аккумулятор	акамулятор колонки jbl	аккумулятор колонки jbl	no	0.5
+белова	беговая	белова 12	беговая 12	no	0.5
+карину	картину	дверь передняя правая на карину 97года	дверь передняя правая на картину 97года	no	0.5
+бочька	бочка	бочька 3 куба	бочка 3 куба	no	0.5
+водонепронецаемая	водонепроницаемая	акустика водонепронецаемая	акустика водонепроницаемая	no	0.5
+vanos	lanos	vanos s50	lanos s50	no	0.5
+сузуки	сумки	бензобак на сузуки	бензобак на сумки	yes	0.5
+hts	htc	hts моноблок	htc моноблок	no	0.5
+forza	corsa	forza motorsport 1	corsa motorsport 1	yes	0.5
+orang	orange	абонемент orang	абонемент orange	no	0.5
+хондай	хундай	бампер задний оригинал хондай солярис 2	бампер задний оригинал хундай солярис 2	no	0.5
+хиельницкого	хмельницкого	богдана хиельницкого	богдана хмельницкого	no	0.5
+buggi	buggy	mountain buggi nano	mountain buggy nano	yes	0.5
+six	aux	tom clancys rainbow six	tom clancys rainbow aux	no	0.5
+subary	subaru	subary xv	subaru xv	no	0.5
+lachetti	lacetti	chevrolet lachetti седан	chevrolet lacetti седан	no	0.5
+xenon	canon	expander xenon	expander canon	no	0.5
+nissin	nissan	nissin tourer	nissan tourer	no	0.5
+имобилайзер	иммобилайзера	nissan x-trail t31 имобилайзер	nissan x-trail t31 иммобилайзера	no	0.5
+ymaha	yamaha	ymaha наклейка	yamaha наклейка	yes	0.5
+rjkkb	колли	rjkkb	колли	no	0.5
+droid	android	moto z droid	moto z android	no	0.5
+борода	города	борода на оку	города на оку	no	0.5
+boch	bosch	villeroy boch бу	villeroy bosch бу	yes	0.5
+контенер	контейнеры	контенер с холодинико	контейнеры с холодинико	no	0.5
+spasio	spacio	corolla spasio	corolla spacio	yes	0.5
+ava	eva	michael kors ava оригинал	michael kors eva оригинал	no	0.5
+indie	indigo	bumbleride indie новая	bumbleride indigo новая	no	0.5
+focal	focus	focal sib evo dolby atmos 5 1 2	focus sib evo dolby atmos 5 1 2	no	0.5
+vektra	vectra	vektra a	vectra a	yes	0.5
+ровер	номер	блок управления стеклоподъемниками ленд ровер	блок управления стеклоподъемниками ленд номер	yes	0.5
+аккамулятор	аккумуляторе	аккамулятор sony на ноутбуки	аккумуляторе sony на ноутбуки	no	0.5
+тени	одни	avon палитра тени	avon палитра одни	no	0.5
+басаножки	босоножки	басаножки мужские 41 р	босоножки мужские 41 р	no	0.5
+акорд	аккорд	акорд 5	аккорд 5	yes	0.5
+аланский	миланский	аланский дог	миланский дог	no	0.5
+планет	планшет	амтел планет r-15	амтел планшет r-15	yes	0.5
+акомулятор	аккумулятор	iphone 5s акомулятор	iphone 5s аккумулятор	no	0.5
+river	rover	pearl river	pearl rover	no	0.5
+матиз	машин	боковое зеркало матиз	боковое зеркало машин	yes	0.5
+алюминивый	алюминиевый	алюминивый обруч	алюминиевый обруч	yes	0.5
+kit	kia	sony alpha ilca-a77 ii kit 18-135	sony alpha ilca-a77 ii kia 18-135	yes	0.5
+saiko	seiko	saiko	seiko	yes	0.5
+soni	sony	soni mhc 44	sony mhc 44	yes	0.5
+атракционы	аттракцион	атракционы москва	аттракцион москва	yes	0.5
+ночное	новое	mercedes gl 166 ночное	mercedes gl 166 новое	yes	0.5
+bend	band	me bend	me band	no	0.5
+-новый	новый	автобокс-terra-koffer-atlant-евродеталь-магнум-menabo-новый-yuago-lux-mont-сателлит-терра-active-sotra	автобокс-terra-koffer-atlant-евродеталь-магнум-menabo новый-yuago-lux-mont-сателлит-терра-active-sotra	no	0.5
+wolksvagen	volkswagen	wolksvagen газель	volkswagen газель	yes	0.5
+yoo	yoyo	jenny yoo	jenny yoyo	no	0.5
+agent	avent	fear agent	fear avent	no	0.5
+классик	пластик	6700 классик	6700 пластик	no	0.5
+грабля	грабли	боковая грабля	боковая грабли	yes	0.5
+бокавые	боковые	бокавые зеркала	боковые зеркала	no	0.5
+hts	htc	hts dual sim	htc dual sim	no	0.5
+røde	rode	røde podcaster	rode podcaster	yes	0.5
+camper	cooper	canadian camper karibu	canadian cooper karibu	no	0.5
+sts	srs	амортизаторы cadillac sts	амортизаторы cadillac srs	yes	0.5
+fnb	ати	аккумулятор fnb	аккумулятор ати	yes	0.5
+cerano	cerato	luisa cerano 44	luisa cerato 44	no	0.5
+versa	versace	versa n21	versace n21	no	0.5
+аланшет	планшет	аланшет	планшет	no	0.5
+densen	denon	densen 410	denon 410	yes	0.5
+дон	дом	автокузов дон	автокузов дом	no	0.5
+облость	области	автокресло ростовская облость	автокресло ростовская области	no	0.5
+аммортизатор	амортизатора	аммортизатор хайлендер	амортизатора хайлендер	yes	0.5
+утюжок	утюгом	ghd утюжок	ghd утюгом	no	0.5
+wolksvagen	volkswagen	wolksvagen навигатор	volkswagen навигатор	yes	0.5
+vanos	lanos	vanos m62	lanos m62	no	0.5
+audio	audi	monitor audio gs20	monitor audi gs20	no	0.5
+сдм	сжм	белмаш сдм 2500	белмаш сжм 2500	no	0.5
+canton	canon	canton 122	canon 122	no	0.5
+une	uno	comme une evidence homme	comme uno evidence homme	no	0.5
+jig	jog	jig v3 программатор	jog v3 программатор	no	0.5
+рамэо	ромео	альфа рамэо	альфа ромео	no	0.5
+кришка	крышки	бензо кришка	бензо крышки	yes	0.5
+аиди	ауди	аиди	ауди	yes	0.5
+tokina	nokia	tokina 16-28 2 8	nokia 16-28 2 8	yes	0.5
+салярис	солярис	абсорбер салярис	абсорбер солярис	no	0.5
+nanopids	nanopods	elari nanopids	elari nanopods	no	0.5
+лед	лет	бмв лед	бмв лет	no	0.5
+короб	город	astra короб	astra город	no	0.5
+trans	transit	trans sport se	transit sport se	no	0.5
+small	smart	small camera	smart camera	no	0.5
+grunch	crunch	grunch 224b	crunch 224b	yes	0.5
+кот	год	белый кот с голубыми глазами	белый год с голубыми глазами	yes	0.5
+ymaha	yamaha	ymaha музыкальные инструменты	yamaha музыкальные инструменты	no	0.5
+gvi	dvi	gvi c3 hd	dvi c3 hd	no	0.5
+port	ford	ford split port	ford split ford	no	0.5
+laser	lancer	laser лазер	lancer лазер	no	0.5
+перед	передня	ауди а6 с5 стойка перед	ауди а6 с5 стойка передня	no	0.5
+мкп	мкр	skoda 1 2 мкп	skoda 1 2 мкр	yes	0.5
+ipone	iphone	ipone 4 s	iphone 4 s	no	0.5
+ben	benz	schwalbe big ben mtb	schwalbe big benz mtb	no	0.5
+отапления	отопление	батареи отапления	батареи отопление	yes	0.5
+сенсер	сенсор	samsung a5 сенсер 2017	samsung a5 сенсор 2017	yes	0.5
+акомулятор	аккумулятор	акомулятор автомобильный	аккумулятор автомобильный	yes	0.5
+istick	stick	istick	stick	no	0.5
+small	smart	small game	smart game	yes	0.5
+playstatiin	playstation	playstatiin 2	playstation 2	no	0.5
+ампер	бампер	12 5 ампер	12 5 бампер	no	0.5
+aura	air	kerastase aura	kerastase air	no	0.5
+квадрацикл	квадроцикла	резина на квадрацикл 28	резина на квадроцикла 28	yes	0.5
+mazfa	mazda	mazfa mpv	mazda mpv	no	0.5
+finale	final	wahl finale	wahl final	no	0.5
+rome	romeo	rome x	romeo x	no	0.5
+oled	led	65 oled	65 led	yes	0.5
+c-класс	класс	mercedes-benz c-класс amg	mercedes-benz класс amg	no	0.5
+bob	baby	bob lunar	baby lunar	no	0.5
+hyndai	hyundai	hyndai solaris решетка радиатора	hyundai solaris решетка радиатора	yes	0.5
+cupe	coupe	audi cupe	audi coupe	yes	0.5
+scoda	skoda	columbus scoda	columbus skoda	yes	0.5
+experia	xperia	sony experia xz premium	sony xperia xz premium	no	0.5
+fjalraven	fjallraven	fjalraven	fjallraven	no	0.5
+ehfk	урал	ehfk	урал	yes	0.5
+ideacenter	ideacentre	lenovo ideacenter	lenovo ideacentre	no	0.5
+богажник	багажника	богажник для оки	багажника для оки	no	0.5
+zeon	xeon	cooper zeon r14	cooper xeon r14	yes	0.5
+salvadore	salvatore	salvadore ferragamo туфли	salvatore ferragamo туфли	yes	0.5
+volswagen	volkswagen	volswagen transporter t4	volkswagen transporter t4	yes	0.5
+lauder	lauren	estee lauder сыворотка ночная	estee lauren сыворотка ночная	no	0.5
+дифузор	диффузор	citroen c3 дифузор	citroen c3 диффузор	no	0.5
+beg	bag	beg green egg	bag green egg	yes	0.5
+ламповый	лампой	trio ламповый	trio лампой	no	0.5
+акь	акб	акь	акб	yes	0.5
+аатомагнитола	автомагнитолы	аатомагнитола пионер	автомагнитолы пионер	no	0.5
+бартер	мастер	xiaomi redmi 5 бартер	xiaomi redmi 5 мастер	no	0.5
+бетоный	бетонный	бетоный завод рбу	бетонный завод рбу	no	0.5
+inter	intel	aurora inter tig pro	aurora intel tig pro	no	0.5
+sworks	works	sworks	works	yes	0.5
+cистема	система	cистема пылеудаления	система пылеудаления	no	0.5
+ytha	нерф	ytha	нерф	yes	0.5
+hunday	hyundai	hunday 3000f	hyundai 3000f	no	0.5
+strida	merida	strida фривил	merida фривил	yes	0.5
+hellis	heelys	hellis	heelys	no	0.5
+nexten	nexen	nexten	nexen	no	0.5
+canin	canon	royal canin sterilised	royal canon sterilised	no	0.5
+wimax	max	yota wimax	yota max	yes	0.5
+jamaxa	yamaha	jamaxa	yamaha	yes	0.5
+nicon	nikon	nicon d 3300	nikon d 3300	no	0.5
+prx	pro	jbl prx 415m	jbl pro 415m	yes	0.5
+акумулятор	аккумуляторе	акумулятор электровелосипед	аккумуляторе электровелосипед	yes	0.5
+excf	exc	excf ktm	exc ktm	yes	0.5
+sty	stt	moser 1881-0051 easy sty	moser 1881-0051 easy stt	no	0.5
+баркас	марка	баркас для выделки шкур	марка для выделки шкур	no	0.5
+климота	климат	блок управления климота бмв е39	блок управления климат бмв е39	no	0.5
+аккамулятор	аккумуляторы	аккамулятор alcatel onetouch	аккумуляторы alcatel onetouch	no	0.5
+aid	air	first aid	first air	yes	0.5
+грета	света	автомобили новые хендай грета	автомобили новые хендай света	yes	0.5
+scoda	skoda	brembo scoda	brembo skoda	yes	0.5
+akai	kia	akai am 69	kia am 69	no	0.5
+анап	анапе	анап	анапе	yes	0.5
+roy	ray	roy norris	ray norris	yes	0.5
+процесор	процессора	4 ядра процесор xeon x5450	4 ядра процессора xeon x5450	no	0.5
+тигровый	торговый	браслет тигровый глаз серебро	браслет торговый глаз серебро	yes	0.5
+stean	steam	адидас кроссовки stean	адидас кроссовки steam	yes	0.5
+piavey	peavey	piavey rock master	peavey rock master	yes	0.5
+сузуки	сумки	бензобак мото сузуки	бензобак мото сумки	yes	0.5
+nicon	nikon	nicon 610	nikon 610	yes	0.5
+pantera	pandora	pantera slk брелок	pandora slk брелок	no	0.5
+сушки	сумка	база для сушки посуды	база для сумка посуды	no	0.5
+duwaly	duwali	duwaly	duwali	yes	0.5
+shkoda	skoda	shkoda oktavia a7	skoda oktavia a7	no	0.5
+мастерка	мастер	forward мастерка	forward мастер	yes	0.5
+akai	kia	akai advance 25	kia advance 25	no	0.5
+lessie	lassie	lessie 98	lassie 98	yes	0.5
+бозе	базе	бозе мазда 6 gh	базе мазда 6 gh	yes	0.5
+audio	audi	ps audio lambda	ps audi lambda	yes	0.5
+famely	family	famely look	family look	yes	0.5
+аккумуляторный	аккумуляторы	10 8 аккумуляторный бош	10 8 аккумуляторы бош	no	0.5
+cart	card	cd cart	cd card	no	0.5
+indie	indigo	bumbleride indie 2018	bumbleride indigo 2018	yes	0.5
+апарат	аппарату	апарат токарно для дерева	аппарату токарно для дерева	yes	0.5
+акамулятор	аккумулятор	акамулятор на мотороллу	аккумулятор на мотороллу	no	0.5
+piple	people	piple	people	no	0.5
+коп	кпп	1 и 5 коп 1997-2018	1 и 5 кпп 1997-2018	no	0.5
+rein	rain	ideal rein	ideal rain	yes	0.5
+атракцион	аттракцион	атракцион	аттракцион	no	0.5
+bose	bosch	bose t1	bosch t1	no	0.5
+versus	ventus	versus-x 300	ventus-x 300	yes	0.5
+kona	sony	kona entourage	sony entourage	no	0.5
+netbook	notebook	ddr3 netbook	ddr3 notebook	yes	0.5
+jts	gtc	jts-700l	gtc-700l	yes	0.5
+mihara	mara	mihara 36	mara 36	no	0.5
+electra	elantra	harley-davidson electra glide standard	harley-davidson elantra glide standard	no	0.5
+russo	rosso	ralph russo	ralph rosso	no	0.5
+леди	лет	блузка маленькая леди 146 идеальном	блузка маленькая лет 146 идеальном	no	0.5
+abm	bmw	abm rx-200	bmw rx-200	no	0.5
+родео	радио	акпп на исузу родео 3 2л	акпп на исузу радио 3 2л	no	0.5
+aser	acer	aser e5 511	acer e5 511	no	0.5
+dac	mac	usb dac	usb mac	yes	0.5
+nota	nova	nota bene	nova bene	no	0.5
+volksvagen	volkswagen	volksvagen passat b5 универсал	volkswagen passat b5 универсал	no	0.5
+tayota	toyota	автодом tayota	автодом toyota	yes	0.5
+алюминевые	алюминиевый	22 5 алюминевые диски	22 5 алюминиевый диски	yes	0.5
+плата	платье	lga 1156 материнская плата	lga 1156 материнская платье	yes	0.5
+аккустические	акустические	аккустические панели	акустические панели	yes	0.5
+ybr	cbr	ktrnhjvjynf ybr	ktrnhjvjynf cbr	no	0.5
+aero	air	gtx 1070 msi aero	gtx 1070 msi air	no	0.5
+electra	elantra	electra glide крыло	elantra glide крыло	yes	0.5
+бпв	бмв	бпв	бмв	no	0.5
+aka	akai	lg aka	lg akai	no	0.5
+акуммулятор	аккумулятор	акуммулятор на рации	аккумулятор на рации	no	0.5
+алина	калина	алина авто авторазбор	калина авто авторазбор	no	0.5
+ghjlfdtw	продавец	ghjlfdtw	продавец	no	0.5
+именые	именные	браслеты именые	браслеты именные	no	0.5
+тайоту	тойота	3 д коврики на тайоту	3 д коврики на тойота	yes	0.5
+sang	ssang	амортизаторы sang yong	амортизаторы ssang yong	yes	0.5
+антены	антенну	антены спутник	антенну спутник	yes	0.5
+wiu	wii	wiu	wii	no	0.5
+seed	ceed	kia seed 1 капот	kia ceed 1 капот	no	0.5
+g-hock	g-shock	g-hock	g-shock	yes	0.5
+фолксваген	фольксваген	бампер задний фолксваген гольф 5	бампер задний фольксваген гольф 5	no	0.5
+сукко	сумка	сукко	сумка	yes	0.5
+xiomi	xiaomi	xiomi 5s	xiaomi 5s	no	0.5
+венеки	веники	березовые венеки	березовые веники	yes	0.5
+бенетон	бетон	бенетон	бетон	yes	0.5
+bose	bosch	bluetooth bose	bluetooth bosch	yes	0.5
+перед	переезд	бампер перед bmw f16	бампер переезд bmw f16	no	0.5
+тверь	дверь	болт тверь	болт дверь	yes	0.5
+fort	ford	fort nite	ford nite	yes	0.5
+e-trec	e-trac	e-trec	e-trac	no	0.5
+eagl	eagle	eagl	eagle	yes	0.5
+tdr	ttr	tdr	ttr	no	0.5
+лошадка	площадка	barbie и лошадка	barbie и площадка	yes	0.5
+dauer	bauer	dauer иэ-4716 вэ	bauer иэ-4716 вэ	yes	0.5
+породы	город	айширской породы	айширской город	no	0.5
+pavillion	pavilion	pavillion 5	pavilion 5	yes	0.5
+gigabite	gigabyte	gigabite poseidon	gigabyte poseidon	no	0.5
+запаски	запчасти	camry v55 запаски	camry v55 запчасти	yes	0.5
+scott	sport	ken scott	ken sport	no	0.5
+плата	платье	айфон 5 плата	айфон 5 платье	no	0.5
+sin	sim	sin shop	sim shop	no	0.5
+geforse	geforce	geforse gtx 960	geforce gtx 960	yes	0.5
+chic	chicco	l chic	l chicco	yes	0.5
+ценр	центр	1-к квартира ценр	1-к квартира центр	yes	0.5
+ful	full	aprilia rs 125 ful power	aprilia rs 125 full power	no	0.5
+daiharsu	daihatsu	daiharsu terios	daihatsu terios	no	0.5
+aero	air	gigabyte aero 15x	gigabyte air 15x	no	0.5
+strida	merida	strida тормоз	merida тормоз	yes	0.5
+xiami	xiaomi	xiami mi max 2	xiaomi mi max 2	yes	0.5
+yokahama	yokohama	yokahama geolander	yokohama geolander	no	0.5
+kit	kia	fujifilm x-t100 kit	fujifilm x-t100 kia	no	0.5
+bmv	bmw	bmv 1	bmw 1	yes	0.5
+алюминевая	алюминиевая	алюминевая фляга	алюминиевая фляга	yes	0.5
+комбенизон	комбинезон	reima комбенизон пух	reima комбинезон пух	no	0.5
+akai	kia	akai z4	kia z4	yes	0.5
+wbkbylh	цилиндр	ukfdysq njhvjpyjq wbkbylh	ukfdysq njhvjpyjq цилиндр	no	0.5
+beck	back	беговел runbike beck in	беговел runbike back in	no	0.5
+hts	htc	hts desire 830 dual sim	htc desire 830 dual sim	yes	0.5
+aero	air	aero plus	air plus	no	0.5
+frendy	fendi	frendy	fendi	no	0.5
+pone	ipone	i pone	i ipone	no	0.5
+белых	белый	аренда белых такси	аренда белый такси	no	0.5
+бра	пара	бра классика	пара классика	yes	0.5
+зубчининовка	зубчаниновка	самара самарская область зубчининовка	самара самарская область зубчаниновка	no	0.5
+aser	acer	aser e1-570g 73538g75mnkk	acer e1-570g 73538g75mnkk	no	0.5
+водалей	водолей	автомойка водалей	автомойка водолей	no	0.5
+crosser	cruiser	бампер c crosser	бампер c cruiser	yes	0.5
+калёсо	калесо	7 50 калёсо	7 50 калесо	no	0.5
+фольсваген	фольксвагена	акпп фольсваген	акпп фольксвагена	yes	0.5
+slam	slim	ryobi slam 3000	ryobi slim 3000	yes	0.5
+запчсти	запчасти	toyota yaris запчсти	toyota yaris запчасти	yes	0.5
+carat	carlo	fulda carat	fulda carlo	yes	0.5
+kikx	kick	kikx 1000	kick 1000	no	0.5
+можевельник	можжевельника	можевельник 70 см	можжевельника 70 см	no	0.5
+аккамулятор	аккумулятора	аккамулятор батарейки	аккумулятора батарейки	yes	0.5
+белово	белого	белово шкаф	белого шкаф	yes	0.5
+welgo	wellgo	welgo	wellgo	no	0.5
+диспле	дисплея	samsung диспле	samsung дисплея	yes	0.5
+hdr	hdd	sony hdr as30	sony hdd as30	yes	0.5
+nex	nexia	sony nex макрокольца	sony nexia макрокольца	no	0.5
+yndex	yandex	t9094417231 yndex ru	t9094417231 yandex ru	no	0.5
+cbltkrf	сиделка	cbltkrf	сиделка	no	0.5
+acura	astra	acura mdx фонарь	astra mdx фонарь	no	0.5
+александрова	александров	александрова 9	александров 9	no	0.5
+picaso	picasso	picaso x pro	picasso x pro	no	0.5
+sante	santa	sante fx v	santa fx v	no	0.5
+асоль	ассоль	асоль	ассоль	yes	0.5
+фольксфаген	фольксваген	авто бу машина фольксфаген поле москва	авто бу машина фольксваген поле москва	yes	0.5
+клара	карла	gotz клара	gotz карла	no	0.5
+outlender	outlander	бампер outlender xl	бампер outlander xl	no	0.5
+алюминивая	алюминевая	алюминивая фляга	алюминевая фляга	yes	0.5
+алеканова	алеканово	алеканова	алеканово	yes	0.5
+степ	стен	абонемент степ	абонемент стен	yes	0.5
+tdi	audi	audi 3 0 tdi распредвал	audi 3 0 audi распредвал	yes	0.5
+кросовки	кроссовки	lacoste кросовки	lacoste кроссовки	yes	0.5
+cic	ice	bmw cic retrofit adapter	bmw ice retrofit adapter	yes	0.5
+марафон	смартфон	адидас марафон	адидас смартфон	yes	0.5
+плата	платье	samsung r780 плата	samsung r780 платье	yes	0.5
+airpod	airport	airpod правый	airport правый	no	0.5
+акорд	аккорды	бампер акорд	бампер аккорды	no	0.5
+база	без	база и топ kodi	без и топ kodi	yes	0.5
+mjx	max	mjx батарея	max батарея	yes	0.5
+forza	corsa	forza motorsport 4 xbox 360	corsa motorsport 4 xbox 360	no	0.5
+фолксваген	фольцваген	акпп фолксваген пассат	акпп фольцваген пассат	no	0.5
+rossa	rosso	ferrari 250 testa rossa 1958	ferrari 250 testa rosso 1958	no	0.5
+бош	бак	бензопила бош	бензопила бак	no	0.5
+антириум	антуриум	антириум	антуриум	yes	0.5
+шапово	щапово	большое шапово	большое щапово	yes	0.5
+архипово	архипова	архипово осиповкв	архипова осиповкв	yes	0.5
+huyndai	hyundai	huyndai elantra	hyundai elantra	no	0.5
+yokogama	yokohama	245 45 r19 yokogama	245 45 r19 yokohama	yes	0.5
+хэндай	хонда	бампер хэндай авторазбор	бампер хонда авторазбор	no	0.5
+база	без	база отдыха архипо осиповка	без отдыха архипо осиповка	no	0.5
+argent	agent	argent	agent	no	0.5
+segs	sega	segs	sega	no	0.5
+vil	vip	vil	vip	no	0.5
+late	lite	macbook pro 2011 late 13	macbook pro 2011 lite 13	yes	0.5
+краснадарский	краснодарский	авито ру краснадарский край	авито ру краснодарский край	yes	0.5
+боллер	бойлер	боллер от котла	бойлер от котла	no	0.5
+пбц	бпц	бинокль пбц	бинокль бпц	no	0.5
+укладчик	укладки	асфальта укладчик	асфальта укладки	yes	0.5
+док	дом	thinkpad t440 док	thinkpad t440 дом	yes	0.5
+матиз	машин	145 70 р13 матиз	145 70 р13 машин	no	0.5
+cohen	john	cohen future	john future	no	0.5
+antari	antara	antari m1	antara m1	yes	0.5
+bmv	bmw	bmv	bmw	no	0.5
+аксесуары	аксессуары	аксесуары экшен камеры	аксессуары экшен камеры	no	0.5
+akai	kia	akai am 2800	kia am 2800	no	0.5
+xari	zara	mima xari 3в1	mima zara 3в1	no	0.5
+раскат	пассат	авто раскат без залога	авто пассат без залога	no	0.5
+bsz	bse	metabo bsz 18	metabo bse 18	no	0.5
+банные	ванны	банные	ванны	no	0.5
+всборе	сборе	бампер всборе на dodge caliber	бампер сборе на dodge caliber	no	0.5
+m-mini	mini	m-mini	mini	no	0.5
+focal	focus	focal 16 5 sub	focus 16 5 sub	no	0.5
+huawey	huawei	huawey y5 2017	huawei y5 2017	yes	0.5
+isudzu	isuzu	isudzu исудзу	isuzu исудзу	no	0.5
+челси	чулки	ботинки челси 37	ботинки чулки 37	yes	0.5
+нисан	диван	бампер нисан тино	бампер диван тино	no	0.5
+cts	gtx	crown cts	crown gtx	yes	0.5
+champions	champion	adidas league champions	adidas league champion	yes	0.5
+папа	пара	vga кабель папа мама	vga кабель пара мама	no	0.5
+carol	carlo	carol christian poell	carlo christian poell	yes	0.5
+-комнатные	комнатные	4-комнатные	4 комнатные	yes	0.5
+салярис	солярис	боковое зеркало на салярис	боковое зеркало на солярис	no	0.5
+zuc	zuk	zuc	zuk	no	0.5
+марта	карта	8 марта 21 к 2	8 карта 21 к 2	no	0.5
+yari	yaris	rockshox yari	rockshox yaris	no	0.5
+phone	iphone	phone 5 se	iphone 5 se	yes	0.5
+часовой	часов	8 часовой график	8 часов график	yes	0.5
+перс	пресс	перс рыжая	пресс рыжая	yes	0.5
+бел	белый	бел шина	белый шина	no	0.5
+cruser	cruiser	toyota jl cruser	toyota jl cruiser	yes	0.5
+cowon	canon	cowon s9	canon s9	yes	0.5
+cayin	canon	mp3 плеер cayin n3	mp3 плеер canon n3	no	0.5
+драгон	дракон	автобусы голден драгон	автобусы голден дракон	no	0.5
+denn	denon	denn dek610	denon dek610	no	0.5
+акуумулятор	аккумулятор	акуумулятор dualshock 4	аккумулятор dualshock 4	yes	0.5
+croocs	crocs	croocs	crocs	no	0.5
+картридер	картридж	usb 3 картридер	usb 3 картридж	yes	0.5
+mad	amd	mad professor fuzz	amd professor fuzz	no	0.5
+картина	квартира	9 вал картина	9 вал квартира	no	0.5
+челны	чехлы	авторазбор камаз 5360набережные челны	авторазбор камаз 5360набережные чехлы	no	0.5
+kse	kce	echo kse 2400	echo kce 2400	yes	0.5
+лес	лет	анапа дом рядом лес	анапа дом рядом лет	no	0.5
+susuki	suzuki	susuki intruder 400	suzuki intruder 400	no	0.5
+izofix	isofix	автолюлька izofix	автолюлька isofix	no	0.5
+макет	монет	банера макет	банера монет	yes	0.5
+toyo	toyota	toyo at 215 75	toyota at 215 75	yes	0.5
+канта	карта	натяжной потолок без канта	натяжной потолок без карта	no	0.5
+mia	kia	mamma mia	mamma kia	no	0.5
+ipone	iphone	ipone 6	iphone 6	yes	0.5
+велотренажёр	велотренажеры	housefit велотренажёр	housefit велотренажеры	yes	0.5
+dewolt	dewalt	dewolt уровни	dewalt уровни	yes	0.5
+хендей	хендай	коврик для багажника хендей солярис	коврик для багажника хендай солярис	no	0.5
+avene	avent	avene детский	avent детский	no	0.5
+jsb	osb	jsb мини погрузчик	osb мини погрузчик	yes	0.5
+bulgary	bulgari	bulgary	bulgari	yes	0.5
+speedy	speed	speedy 30	speed 30	no	0.5
+гмр	грм	аренда помещения гмр	аренда помещения грм	yes	0.5
+epiphone	iphone	epiphone es 339	iphone es 339	no	0.5
+катер	камера	silver катер eagle	silver камера eagle	yes	0.5
+hundai	hyundai	hundai creta торпеда	hyundai creta торпеда	no	0.5
+dcd	dvd	dcd 785	dvd 785	yes	0.5
+cets	getz	cets	getz	no	0.5
+couse	cause	just couse 2 xbox 360	just cause 2 xbox 360	no	0.5
+fmc	gmc	fila fmc	fila gmc	yes	0.5
+wes	west	yamaha wes borland	yamaha west borland	no	0.5
+опе	опер	бампер опе	бампер опер	no	0.5
+ботильены	ботильоны	ботильены 38 39 р	ботильоны 38 39 р	yes	0.5
+xeox	xeon	speedlink xeox pro analog wireless	speedlink xeon pro analog wireless	no	0.5
+поводок	потолок	subaru outback поводок стеклоочистителя b13	subaru outback потолок стеклоочистителя b13	yes	0.5
+huyndai	hyundai	huyndai solaris руль	hyundai solaris руль	yes	0.5
+армотизаторы	амортизаторы	армотизаторы 2107	амортизаторы 2107	yes	0.5
+jelli	jelly	jelli belli	jelly belli	no	0.5
+амурская	мужская	амурская область константиновка	мужская область константиновка	yes	0.5
+cats	cat	kidz n cats	kidz n cat	no	0.5
+kit	kia	canon eos 1200d kit 18-55	canon eos 1200d kia 18-55	yes	0.5
+актюатор	актуатор	актюатор аурис	актуатор аурис	no	0.5
+baw	bmw	baw 5 метров	bmw 5 метров	no	0.5
+oрел	орел	oрел	орел	yes	0.5
+movi	move	movi arri	move arri	yes	0.5
+wfr	vfr	honda wfr	honda vfr	no	0.5
+pst	psp	bosch pst 750 pe	bosch psp 750 pe	no	0.5
+больная	большая	больная	большая	yes	0.5
+неоригинал	оригинал	kia sorento 12-бампер передний неоригинал	kia sorento 12-бампер передний оригинал	no	0.5
+бабчка	бабочка	бабчка	бабочка	yes	0.5
+oase	case	oase	case	no	0.5
+cart	car	razor crazy cart xl	razor crazy car xl	yes	0.5
+балдохин	балдахина	балдохин для взрослых	балдахина для взрослых	yes	0.5
+колпаки	коляски	audi a1 колпаки	audi a1 коляски	yes	0.5
+socet	socket	intel 1150 socet	intel 1150 socket	yes	0.5
+scott	sport	scott stego	sport stego	no	0.5
+alive	active	dead or alive extreme 3	dead or active extreme 3	no	0.5
+атракцион	аттракционы	vr атракцион	vr аттракционы	no	0.5
+jtc	gtc	jtc h096b	gtc h096b	no	0.5
+выжемной	выжимной	nissan tiida выжемной	nissan tiida выжимной	yes	0.5
+плата	платья	a320 плата	a320 платья	yes	0.5
+бра	пара	бра парные	пара парные	yes	0.5
+vector	vectra	vector vt	vectra vt	yes	0.5
+подшибник	подшипники	opel astra h опорный подшибник	opel astra h опорный подшипники	yes	0.5
+стеклоподьемников	стеклоподъемников	альмера классик кнопки стеклоподьемников	альмера классик кнопки стеклоподъемников	no	0.5
+падушка	подушки	автомобильная падушка	автомобильная подушки	no	0.5
+mackbook	macbook	mackbook	macbook	no	0.5
+ark	mark	ark 502	mark 502	no	0.5
+разме	размера	бесплатно бутсы разме 42	бесплатно бутсы размера 42	no	0.5
+blacview	blackview	blacview	blackview	yes	0.5
+galaksi	galaxi	galaksi s4	galaxi s4	no	0.5
+nexie	nixie	nexie	nixie	no	0.5
+фари	фары	ml передние фари 2009 год	ml передние фары 2009 год	no	0.5
+akai	kia	akai apc40 mk2	kia apc40 mk2	yes	0.5
+vjyjrekzh	монокуляр	vjyjrekzh	монокуляр	yes	0.5
+heep	jeep	uriah heep uk	uriah jeep uk	no	0.5
+squier	super	squier precision	super precision	yes	0.5
+фанарь	фонарь	kia ceed универсал задний фанарь	kia ceed универсал задний фонарь	no	0.5
+аксесуары	аксессуары	аксесуары для свадебной фотосессии	аксессуары для свадебной фотосессии	no	0.5
+fortin	fortis	fortin evo-chrt6	fortis evo-chrt6	yes	0.5
+usm	usb	canon 10-22 3 5-4 5 usm	canon 10-22 3 5-4 5 usb	yes	0.5
+матиз	машин	акб на матиз	акб на машин	yes	0.5
+dender	fender	dender	fender	yes	0.5
+kavasaki	kawasaki	kavasaki 250 r	kawasaki 250 r	no	0.5
+vrv	мкм	vrv daikin	мкм daikin	no	0.5
+prox	pro	prox	pro	no	0.5
+басейны	бассейна	басейны надувные	бассейна надувные	no	0.5
+bmp	bmw	bmp 104 lcd	bmw 104 lcd	yes	0.5
+арена	аренда	арена для бейблэйд	аренда для бейблэйд	no	0.5
+samsun	samsung	samsun a 3 2017	samsung a 3 2017	no	0.5
+baw	bmw	baw манипулятор	bmw манипулятор	no	0.5
+городок	город	16 военный городок	16 военный город	no	0.5
+maccan	macan	maccan	macan	yes	0.5
+ikon	iron	ikon tech	iron tech	no	0.5
+конвертер	конверт	usb-com25 конвертер	usb-com25 конверт	yes	0.5
+ironmen	ironman	ironmen пояс	ironman пояс	no	0.5
+песочка	песочная	песочка афганка	песочная афганка	yes	0.5
+дикси	диск	арендатор дикси	арендатор диск	no	0.5
+богажник	багажники	opel astra h богажник	opel astra h багажники	yes	0.5
+wolvo	volvo	wolvo	volvo	yes	0.5
+toyo	toyota	toyo extensa hp	toyota extensa hp	yes	0.5
+востания	восстание	1 комнатная квартира в площади востания	1 комнатная квартира в площади восстание	yes	0.5
+htcgbhfnjh	респиратор	htcgbhfnjh	респиратор	yes	0.5
+акссесуары	аксессуар	акссесуары xbox 360	аксессуар xbox 360	yes	0.5
+гросс	кросс	бернский зененхунд гросс	бернский зененхунд кросс	yes	0.5
+барикады	баррикады	красные барикады астраханская область 40маток и 30ягнят	красные баррикады астраханская область 40маток и 30ягнят	no	0.5
+амурская	мужская	1 амурская	1 мужская	yes	0.5
+аммортизатор	амортизатора	аммортизатор приора	амортизатора приора	yes	0.5
+oktavia	octavia	skoda oktavia 2006	skoda octavia 2006	no	0.5
+xyundai	hyundai	xyundai vitae	hyundai vitae	no	0.5
+akai	kia	akai эквалайзер	kia эквалайзер	no	0.5
+jimmi	jimny	jimmi choo 39	jimny choo 39	yes	0.5
+m-класс	класс	mercedes-benz m-класс 2014	mercedes-benz класс 2014	no	0.5
+xtrail	x-trail	nissan xtrail гидротрансформатор	nissan x-trail гидротрансформатор	yes	0.5
+аредна	аренда	аредна авто	аренда авто	yes	0.5
+citi	city	vento citi	vento city	no	0.5
+садовод	садовое	ангарский садовод	ангарский садовое	yes	0.5
+loren	lauren	us polo ralf loren	us polo ralf lauren	no	0.5
+originals	original	кроссовки adidas originals nmd cs	кроссовки adidas original nmd cs	yes	0.5
+canton	canon	canton ct 920 sc	canon ct 920 sc	no	0.5
+rdc	rds	rdc 510	rds 510	no	0.5
+renau	renault	renau scenik	renault scenik	yes	0.5
+бош	бак	бош паркетка бу купить	бак паркетка бу купить	no	0.5
+хутор	мотор	белый хутор темрюкский район	белый мотор темрюкский район	yes	0.5
+ride	red	retro ride	retro red	no	0.5
+coop	coup	coop midi	coup midi	yes	0.5
+hyindai	hyndai	hd78 hyindai	hd78 hyndai	no	0.5
+mono	mini	mono 2 1500	mini 2 1500	no	0.5
+статор	станок	irbis статор	irbis станок	no	0.5
+goose	google	golden goose 41	golden google 41	no	0.5
+celvin	celine	celvin klein футболка	celine klein футболка	yes	0.5
+аккамулятор	аккумулятор	аккамулятор на фредлайнер	аккумулятор на фредлайнер	yes	0.5
+fantom	phantom	roland fantom xr	roland phantom xr	no	0.5
+dac	mac	sonica dac	sonica mac	yes	0.5
+legenda	legend	legenda героев	legend героев	yes	0.5
+mathercare	mothercare	mathercare 110 новое	mothercare 110 новое	yes	0.5
+лечинка	личинка	opel astra h зажигание лечинка	opel astra h зажигание личинка	yes	0.5
+focal	focus	focal performance ps 165fx	focus performance ps 165fx	no	0.5
+берды	бердск	берды	бердск	yes	0.5
+pear	pearl	jo malone pear	jo malone pearl	yes	0.5
+mans	man	mans	man	no	0.5
+атс	птс	атс станция ссср	птс станция ссср	yes	0.5
+cornaby	carnaby	cornaby	carnaby	no	0.5
+lauder	lauren	sensuous noir estee lauder	sensuous noir estee lauren	no	0.5
+башмаг	башмак	башмаг	башмак	yes	0.5
+ден	один	цифри на ден рожденя	цифри на один рожденя	no	0.5
+audio	audi	park audio cf 1800	park audi cf 1800	no	0.5
+медальон	медаль	pandora медальон	pandora медаль	yes	0.5
+dremel	diesel	dremel на запчасти	diesel на запчасти	yes	0.5
+вины	вина	без вины виноватая	без вина виноватая	yes	0.5
+саната	сонату	авто запчасти на хундай саната	авто запчасти на хундай сонату	yes	0.5
+пиновый	новый	6 пиновый провод	6 новый провод	no	0.5
+mercedes-	mercedes	mercedes-222	mercedes 222	no	0.5
+kicx	kia	kicx ar	kia ar	no	0.5
+актавия	октавия	бампер шкода актавия	бампер шкода октавия	no	0.5
+тайоту	тойоту	аккумулятор на тайоту	аккумулятор на тойоту	no	0.5
+lorac	lorak	lorac	lorak	yes	0.5
+toskana	toscana	toskana	toscana	yes	0.5
+arex	aerox	arex	aerox	yes	0.5
+беле	белое	жилье на беле в аренду	жилье на белое в аренду	no	0.5
+tcon	con	tcon-17x	con-17x	yes	0.5
+feat	fiat	gear feat 2	gear fiat 2	no	0.5
+charg	charge	jbl charg 3 оригинал	jbl charge 3 оригинал	no	0.5
+калины	машины	бортовой компьютер штат для калины	бортовой компьютер штат для машины	yes	0.5
+g-system	system	g-system tc	system tc	no	0.5
+стрелы	столы	бетонораспределительные стрелы	бетонораспределительные столы	yes	0.5
+ask	asx	ask bmw e65	asx bmw e65	no	0.5
+civik	civic	honda civik eg	honda civic eg	no	0.5
+банан	баня	merseders банан	merseders баня	yes	0.5
+ef-m	ef-s	ef-m	ef-s	no	0.5
+buhs	игры	buhs yf gr	игры yf gr	no	0.5
+tokina	nokia	tokina at-x pro 28-70mm f2 8	nokia at-x pro 28-70mm f2 8	no	0.5
+ermano	ermanno	ermano scervino	ermanno scervino	no	0.5
+solo	polo	monster beats solo 3	monster beats polo 3	yes	0.5
+steve	stels	steve madden сандали	stels madden сандали	yes	0.5
+метала	металлу	б у метала черепица	б у металлу черепица	no	0.5
+плата	платья	iphone 6s плата материнская	iphone 6s платья материнская	yes	0.5
+обьектива	объектив	canon крышка обьектива	canon крышка объектив	no	0.5
+pego	peg	pego	peg	yes	0.5
+oktavia	octavia	skoda oktavia a7 решотка радиатора	skoda octavia a7 решотка радиатора	yes	0.5
+cis	cls	doona cis	doona cls	no	0.5
+charg	charge	quick charg	quick charge	no	0.5
+спальник	купальник	marmot спальник	marmot купальник	yes	0.5
+btwin	twin	btwin 16	twin 16	yes	0.5
+carry	carlo	carry me	carlo me	yes	0.5
+kurtka	artka	kurtka	artka	no	0.5
+парта	плита	moll стол парта	moll стол плита	yes	0.5
+holl	hall	black holl	black hall	yes	0.5
+багатырева	богатырева	багатырева	богатырева	yes	0.5
+les	led	les plaisirs nature	led plaisirs nature	yes	0.5
+база	без	база отдыха продам	без отдыха продам	no	0.5
+kio	kia	kio ceed	kia ceed	no	0.5
+кубик	купит	5 на 5 кубик	5 на 5 купит	yes	0.5
+красных	красной	1 комнатная квартира красных партизан	1 комнатная квартира красной партизан	no	0.5
+nissin	nissan	nissin teana	nissan teana	yes	0.5
+аккамуляторы	аккумуляторы	аккамуляторы от ноутбуков	аккумуляторы от ноутбуков	yes	0.5
+бассеин	бассейна	бассеин детский	бассейна детский	yes	0.5
+xisiomi	xiaomi	xisiomi	xiaomi	yes	0.5
+yokogama	yokohama	yokogama ig20 17	yokohama ig20 17	yes	0.5
+кондицеонера	кондиционер	без кондицеонера	без кондиционер	no	0.5
+балкария	болгария	поиск кабардино балкария нальчик	поиск кабардино болгария нальчик	yes	0.5
+daewo	daewoo	daewo gentra	daewoo gentra	yes	0.5
+camaro	camry	camaro zl	camry zl	yes	0.5
+gdf	gsf	gdf 100	gsf 100	no	0.5
+решотка	решетки	ауди а6 решотка нижнего бампера	ауди а6 решетки нижнего бампера	yes	0.5
