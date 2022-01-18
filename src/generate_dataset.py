@@ -6,6 +6,7 @@ import numpy as np
 import pandas as pd
 
 df = pd.read_csv('data/misspell.tsv', '\t')
+df['INPUT:diff1'] = df['INPUT:diff1'].fillna('nan')
 
 rs = np.random.RandomState(0)
 df['holdout'] = rs.uniform(0, 1, size=len(df)) < 0.2
